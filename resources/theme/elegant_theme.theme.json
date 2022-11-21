@@ -1,0 +1,41 @@
+{
+  "name": "Elegant dark",
+  "dark": true,
+  "author": "yx208",
+  "editorScheme": "/theme/elegant_theme.icls",
+  "colors": {
+    "dark": "#26292E",
+    "gray": "#33363d",
+    "primary": "#085dc2",
+    "primarySecond": "#2077f1",
+    "white": "#e5e5e5"
+  },
+  "ui": {
+    "*": {
+      "background": "dark",
+      "foreground": "white",
+      "borderColor": "gray"
+    },
+    "Button": {
+      "default": {
+        "foreground": "white",
+
+        "startBackground": "primary",
+        "endBackground": "primarySecond",
+
+        "startBorderColor": "primary",
+        "endBorderColor": "primarySecond",
+
+        "focusedBorderColor": "white"
+      }
+    },
+    "Tree": {
+      "selectionBackground": "primary",
+      "selectionInactiveBackground": "gray",
+      "rowHeight": 22
+    },
+    "List": {
+      "selectionBackground": "primary"
+    }
+  }
+}
