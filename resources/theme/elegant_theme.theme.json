@@ -1,0 +1,62 @@
+{
+  "name": "Elegant Theme",
+  "dark": true,
+  "author": "yx208",
+  "editorScheme": "/theme/elegant_theme.icls",
+  "colors": {
+    "dark": "#26292E",
+    "gray": "#393e47",
+    "gray2": "#2d3138",
+    "primary": "#085dc2",
+    "primarySecond": "#2077f1",
+    "white": "#e5e5e5",
+    "white2": "#A9B7C6",
+    "cyan": "#00C9A7",
+    "green": "#01B15A",
+    "yellow": "#FFB652"
+  },
+  "ui": {
+    "*": {
+      "background": "dark",
+      "foreground": "white",
+      "borderColor": "gray",
+      "selectionBackground": "gray"
+    },
+    "Button": {
+      "default": {
+        "foreground": "white",
+        "startBackground": "primary",
+        "endBackground": "primarySecond",
+        "startBorderColor": "primary",
+        "endBorderColor": "primarySecond",
+        "focusedBorderColor": "white"
+      }
+    },
+    "Tree": {
+      "selectionBackground": "gray",
+      "selectionInactiveBackground": "gray",
+      "rowHeight": 22
+    },
+    "List": {
+      "selectionBackground": "primary"
+    },
+    "EditorPane.inactiveBackground": "dark",
+    "CompletionPopup": {
+      "foreground": "white2",
+      "matchForeground": "primarySecond",
+      "selectionBackground": "gray2",
+      "selectionInactiveBackground": "gray2"
+    },
+    "EditorTabs": {
+      "underlineColor": "primarySecond",
+      "underlineHeight": 2,
+      "underlinedTabBackground": "gray"
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "dark",
+        "inactiveBackground": "dark"
+      }
+    }
+  }
+}
