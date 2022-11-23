@@ -5,22 +5,22 @@
   "editorScheme": "/theme/elegant_theme.icls",
   "colors": {
     "dark": "#26292E",
-    "gray": "#393e47",
+    "gray": "#353a42",
     "gray2": "#2d3138",
     "primary": "#085dc2",
     "primarySecond": "#2077f1",
     "white": "#e5e5e5",
-    "white2": "#A9B7C6",
-    "cyan": "#00C9A7",
-    "green": "#01B15A",
-    "yellow": "#FFB652"
+    "white2": "#A9B7C6"
   },
   "ui": {
     "*": {
       "background": "dark",
       "foreground": "white",
       "borderColor": "gray",
-      "selectionBackground": "gray"
+      "selectionBackground": "gray",
+      "separatorColor": "gray",
+      "selectionInactiveBackground": "gray",
+      "selectionBackgroundInactive": "gray"
     },
     "Button": {
       "default": {
@@ -37,9 +37,6 @@
       "selectionInactiveBackground": "gray",
       "rowHeight": 22
     },
-    "List": {
-      "selectionBackground": "primary"
-    },
     "EditorPane.inactiveBackground": "dark",
     "CompletionPopup": {
       "foreground": "white2",
@@ -49,6 +46,7 @@
     },
     "EditorTabs": {
       "underlineColor": "primarySecond",
+      "inactiveUnderlineColor": "primarySecond",
       "underlineHeight": 2,
       "underlinedTabBackground": "gray"
     },
@@ -57,6 +55,27 @@
         "background": "dark",
         "inactiveBackground": "dark"
       }
+    },
+    "WelcomeScreen.separatorColor": "gray",
+    "DefaultTabs": {
+      "hoverBackground": "gray",
+      "underlineColor": "primarySecond",
+      "underlineHeight": 2
+    },
+    "TabbedPane": {
+      "underlineColor": "primarySecond",
+      "focusColor": "gray",
+      "hoverColor": "gray"
+    },
+    "Link": {
+      "activeForeground": "primarySecond"
+    },
+    "Table": {
+      "stripeColor": "gray",
+      "lightSelectionForeground": "white",
+      "lightSelectionInactiveForeground": "white",
+      "lightSelectionBackground": "gray",
+      "lightSelectionInactiveBackground": "gray"
     }
   }
 }
