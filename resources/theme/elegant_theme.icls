@@ -204,6 +204,11 @@
         <option name="FOREGROUND" value="4997fa" />
       </value>
     </option>
+    <option name="org.rust.CFG_DISABLED_CODE">
+      <value>
+        <option name="FOREGROUND" value="5f6770" />
+      </value>
+    </option>
     <option name="org.rust.ENUM_VARIANT">
       <value>
         <option name="FOREGROUND" value="c9a7" />
@@ -248,7 +253,7 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
-    <option name="org.rust.CFG_DISABLED_CODE">
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5f6770" />
       </value>
