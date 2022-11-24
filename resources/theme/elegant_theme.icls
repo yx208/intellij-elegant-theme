@@ -19,7 +19,7 @@
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="ffb652" />
+        <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -39,7 +39,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ffb652" />
+        <option name="FOREGROUND" value="ffad3d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -51,9 +51,9 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="ffb652" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="ffb652" />
+        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="ffad3d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -79,7 +79,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ffb652" />
+        <option name="FOREGROUND" value="ffad3d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -105,7 +105,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ffb652" />
+        <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -142,7 +142,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffb652" />
+        <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -171,11 +171,6 @@
       </value>
     </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
-    <option name="JSON.PROPERTY_KEY">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-      </value>
-    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -183,9 +178,23 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="4997fa" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ffad3d" />
+        <option name="ERROR_STRIPE_COLOR" value="ffad3d" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="ffb652" />
+        <option name="FOREGROUND" value="ffad3d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -193,6 +202,12 @@
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="4997fa" />
+      </value>
+    </option>
+    <option name="org.rust.ENUM_VARIANT">
+      <value>
+        <option name="FOREGROUND" value="c9a7" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
@@ -225,18 +240,17 @@
     <option name="org.rust.TRAIT">
       <value>
         <option name="FOREGROUND" value="c9a7" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffb652" />
+        <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
-    <option name="WARNING_ATTRIBUTES">
+    <option name="org.rust.CFG_DISABLED_CODE">
       <value>
-        <option name="EFFECT_COLOR" value="ffb652" />
-        <option name="ERROR_STRIPE_COLOR" value="ffb652" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FOREGROUND" value="5f6770" />
       </value>
     </option>
   </attributes>
