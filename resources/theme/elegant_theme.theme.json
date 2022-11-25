@@ -35,7 +35,8 @@
     "Tree": {
       "selectionBackground": "gray",
       "selectionInactiveBackground": "gray",
-      "rowHeight": 24
+      "selectionForeground": "white",
+      "rowHeight": 26
     },
     "EditorPane.inactiveBackground": "dark",
     "CompletionPopup": {
