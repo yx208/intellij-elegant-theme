@@ -119,7 +119,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -304,6 +304,16 @@
     <option name="org.rust.TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffad3d" />
+      </value>
+    </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="c9a7" />
       </value>
     </option>
   </attributes>

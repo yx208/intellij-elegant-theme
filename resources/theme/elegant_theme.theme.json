@@ -22,6 +22,7 @@
       "selectionInactiveBackground": "gray",
       "selectionBackgroundInactive": "gray"
     },
+    "CheckBoxMenuItem.selectionBackground": "primary",
     "Button": {
       "default": {
         "foreground": "white",
