@@ -7,6 +7,7 @@
     "dark": "#26292E",
     "gray": "#353a42",
     "gray2": "#2d3138",
+    "gray3": "#3c444d",
     "primary": "#085dc2",
     "primarySecond": "#2077f1",
     "white": "#e5e5e5",
@@ -78,6 +79,23 @@
       "lightSelectionInactiveForeground": "white",
       "lightSelectionBackground": "gray",
       "lightSelectionInactiveBackground": "gray"
+    },
+    "Plugins": {
+      "SectionHeader.background": "gray",
+      "tagBackground": "primarySecond",
+      "tagForeground": "white",
+
+      "Button": {
+        "installForeground": "white2",
+        "installBorderColor": "white2",
+        "installFillForeground": "white",
+        "installFillBackground": "primarySecond",
+        "updateForeground": "white",
+        "updateBackground": "primarySecond"
+      },
+
+      "lightSelectionBackground": "gray",
+      "hoverBackground": "gray"
     }
   }
 }
