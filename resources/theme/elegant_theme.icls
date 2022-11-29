@@ -25,6 +25,11 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f6770" />
@@ -68,6 +73,11 @@
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="4997fa" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="c9a7" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -306,14 +316,9 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE">
+    <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="4997fa" />
-      </value>
-    </option>
-    <option name="DEFAULT_ENTITY">
-      <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="1b15a" />
       </value>
     </option>
   </attributes>

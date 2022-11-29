@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>elegant-theme</id>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -20,13 +20,7 @@
     <description><![CDATA[
     <p>Elegant <i>theme</i> and <i>color scheme</i> for IntelliJ®, Webstorm® and other Jetbrains® IDEs.</p>
     <br/>
-    <p>Support Language</p>
-    <ul>
-        <li>Rust</li>
-        <li>JavaScript / CSS / HTML</li>
-        <li>JSON / XML</li>
-        <li>Python</li>
-    </ul>
+    <p>More language adapting</p>
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.

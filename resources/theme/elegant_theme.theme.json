@@ -11,7 +11,11 @@
     "primary": "#085dc2",
     "primarySecond": "#2077f1",
     "white": "#e5e5e5",
-    "white2": "#A9B7C6"
+    "white2": "#A9B7C6",
+    "red": "#e80854",
+    "redDeep": "#990536",
+    "green": "#01B15A",
+    "greenDeep": "#148A4F"
   },
   "ui": {
     "*": {
@@ -96,6 +100,16 @@
 
       "lightSelectionBackground": "gray",
       "hoverBackground": "gray"
+    },
+    "ProgressBar": {
+      "trackColor": "white",
+      "progressColor": "primarySecond",
+      "indeterminateStartColor": "primarySecond",
+      "indeterminateEndColor": "primary",
+      "failedColor": "red",
+      "failedEndColor": "redDeep",
+      "passedColor": "green",
+      "passedEndColor": "greenDeep"
     }
   }
 }
