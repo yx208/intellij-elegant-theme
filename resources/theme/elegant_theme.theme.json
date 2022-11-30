@@ -14,8 +14,9 @@
     "white2": "#A9B7C6",
     "red": "#e80854",
     "redDeep": "#990536",
-    "green": "#01B15A",
-    "greenDeep": "#148A4F"
+    "green": "#00B374",
+    "greenDeep": "#148A4F",
+    "pureWhite": "#ffffff"
   },
   "ui": {
     "*": {
@@ -110,6 +111,7 @@
       "failedEndColor": "redDeep",
       "passedColor": "green",
       "passedEndColor": "greenDeep"
-    }
+    },
+    "Menu.selectionBackground": "primary"
   }
 }

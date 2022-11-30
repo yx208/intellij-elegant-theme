@@ -1,9 +1,8 @@
 <scheme name="Elegant dark" version="142" parent_scheme="Darcula">
   <colors>
     <option name="CARET_ROW_COLOR" value="2e3238" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOCUMENTATION_COLOR" value="26292e" />
-    <option name="DOC_COMMENT_GUIDE" value="1b15a" />
+    <option name="DOC_COMMENT_GUIDE" value="8f5d" />
     <option name="DOC_COMMENT_LINK" value="4997fa" />
     <option name="GUTTER_BACKGROUND" value="26292e" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="3c4149" />
@@ -53,7 +52,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="148a4f" />
+        <option name="FOREGROUND" value="8f5d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -98,8 +97,8 @@
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="1b15a" />
-        <option name="EFFECT_COLOR" value="1b15a" />
+        <option name="FOREGROUND" value="b374" />
+        <option name="EFFECT_COLOR" value="b374" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -152,7 +151,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="1b15a" />
+        <option name="FOREGROUND" value="b374" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -173,7 +172,17 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="1b15a" />
+        <option name="FOREGROUND" value="b374" />
+      </value>
+    </option>
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="b374" />
       </value>
     </option>
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
@@ -217,14 +226,58 @@
       </value>
     </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="ffad3d" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value />
+    </option>
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="eb8800" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5f6770" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffad3d" />
+      </value>
+    </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="4997fa" />
+        <option name="FOREGROUND" value="ffad3d" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="eb8800" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="eb8800" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
     <option name="TEXT">
@@ -239,6 +292,11 @@
         <option name="FOREGROUND" value="ffad3d" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="4997fa" />
+      </value>
+    </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
@@ -258,6 +316,39 @@
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="4997fa" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="eb8800" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_LIST">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_VALUE">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_SIGN">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="YAML_TEXT">
+      <value>
+        <option name="FOREGROUND" value="ffad3d" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="org.rust.CFG_DISABLED_CODE">
@@ -316,9 +407,25 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
-    <option name="HTML_ENTITY_REFERENCE">
+    <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="1b15a" />
+        <option name="FOREGROUND" value="4997fa" />
+        <option name="EFFECT_COLOR" value="4997fa" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2075eb" />
+        <option name="EFFECT_COLOR" value="2075eb" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2075eb" />
+        <option name="EFFECT_COLOR" value="2075eb" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
