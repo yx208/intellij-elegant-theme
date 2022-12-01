@@ -1,6 +1,7 @@
 <scheme name="Elegant dark" version="142" parent_scheme="Darcula">
   <colors>
     <option name="CARET_ROW_COLOR" value="2e3238" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="26292e" />
     <option name="DOCUMENTATION_COLOR" value="26292e" />
     <option name="DOC_COMMENT_GUIDE" value="8f5d" />
     <option name="DOC_COMMENT_LINK" value="4997fa" />
@@ -14,6 +15,12 @@
     <option name="SELECTION_BACKGROUND" value="3a414d" />
   </colors>
   <attributes>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="b374" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="4997fa" />
@@ -22,6 +29,12 @@
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="ffad3d" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+        <option name="EFFECT_COLOR" value="4997fa" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -165,6 +178,13 @@
         <option name="BACKGROUND" value="3c4149" />
       </value>
     </option>
+    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2075eb" />
+        <option name="EFFECT_COLOR" value="2075eb" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="ffad3d" />
@@ -189,6 +209,13 @@
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="4997fa" />
+      </value>
+    </option>
+    <option name="HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2075eb" />
+        <option name="EFFECT_COLOR" value="2075eb" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INLAY_DEFAULT">
@@ -216,16 +243,11 @@
         <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="c9a7" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="ffad3d" />
@@ -247,6 +269,16 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c9a7" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffad3d" />
+      </value>
+    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5f6770" />
@@ -262,7 +294,6 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="eb8800" />
@@ -407,31 +438,19 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
-    <option name="CTRL_CLICKABLE">
-      <value>
-        <option name="FOREGROUND" value="4997fa" />
-        <option name="EFFECT_COLOR" value="4997fa" />
-        <option name="EFFECT_TYPE" value="-1" />
-      </value>
-    </option>
-    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="2075eb" />
-        <option name="EFFECT_COLOR" value="2075eb" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="HYPERLINK_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="2075eb" />
-        <option name="EFFECT_COLOR" value="2075eb" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.26" />
-  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
 </scheme>

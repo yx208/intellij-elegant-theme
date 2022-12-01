@@ -10,7 +10,7 @@
     "gray3": "#3c444d",
     "primary": "#085dc2",
     "primarySecond": "#2077f1",
-    "white": "#e5e5e5",
+    "white": "#b2b8c6",
     "white2": "#A9B7C6",
     "red": "#e80854",
     "redDeep": "#990536",
@@ -75,9 +75,7 @@
       "focusColor": "gray",
       "hoverColor": "gray"
     },
-    "Link": {
-      "activeForeground": "primarySecond"
-    },
+    "Link.activeForeground": "primarySecond",
     "Table": {
       "stripeColor": "gray",
       "lightSelectionForeground": "white",
@@ -107,11 +105,20 @@
       "progressColor": "primarySecond",
       "indeterminateStartColor": "primarySecond",
       "indeterminateEndColor": "primary",
+
       "failedColor": "red",
       "failedEndColor": "redDeep",
       "passedColor": "green",
       "passedEndColor": "greenDeep"
     },
-    "Menu.selectionBackground": "primary"
+    "Menu.selectionBackground": "primary",
+    "FileColor": {
+      "Yellow": "dark",
+      "Green": "dark",
+      "Blue": "dark",
+      "Violet": "dark",
+      "Orange": "dark",
+      "Rose": "dark"
+    }
   }
 }
