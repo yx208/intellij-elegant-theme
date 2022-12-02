@@ -5,19 +5,24 @@
   "editorScheme": "/theme/elegant_theme.icls",
   "colors": {
     "dark": "#26292E",
+
     "gray": "#30353d",
     "gray2": "#2d3138",
     "gray3": "#383e47",
     "gray4": "#5F6770",
+
     "primary": "#085dc2",
     "primarySecond": "#2077f1",
-    "white": "#c7cad7",
+
+    "pureWhite": "#ffffff",
+    "white": "#d0d1da",
     "white2": "#A9B7C6",
+
     "red": "#e80854",
     "redDeep": "#990536",
+
     "green": "#00B374",
-    "greenDeep": "#008F5D",
-    "pureWhite": "#ffffff"
+    "greenDeep": "#008F5D"
   },
   "ui": {
     "*": {
@@ -29,6 +34,10 @@
       "separatorColor": "gray",
       "selectionInactiveBackground": "gray",
       "selectionBackgroundInactive": "gray"
+    },
+    "List": {
+      "selectionBackground": "primary",
+      "selectionForeground": "white"
     },
     "RunWidget": {
       "foreground": "white",
@@ -71,7 +80,6 @@
         "inactiveBackground": "dark"
       }
     },
-    "ToolWindow.HeaderCloseButton.background": "primary",
     "WelcomeScreen.separatorColor": "gray",
     "DefaultTabs": {
       "hoverBackground": "gray",
@@ -126,6 +134,11 @@
       "hoverBorderColor": "gray3"
     },
     "Menu.selectionBackground": "primary",
+    "NotificationsToolwindow": {
+      "newNotification.hoverBackground": "gray",
+      "newNotification.background": "gray",
+      "Notification.hoverBackground": "gray"
+    },
     "FileColor": {
       "Yellow": "dark",
       "Green": "dark",
