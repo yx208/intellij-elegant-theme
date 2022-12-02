@@ -5,17 +5,18 @@
   "editorScheme": "/theme/elegant_theme.icls",
   "colors": {
     "dark": "#26292E",
-    "gray": "#353a42",
+    "gray": "#30353d",
     "gray2": "#2d3138",
-    "gray3": "#3c444d",
+    "gray3": "#383e47",
+    "gray4": "#5F6770",
     "primary": "#085dc2",
     "primarySecond": "#2077f1",
-    "white": "#b2b8c6",
+    "white": "#c7cad7",
     "white2": "#A9B7C6",
     "red": "#e80854",
     "redDeep": "#990536",
     "green": "#00B374",
-    "greenDeep": "#148A4F",
+    "greenDeep": "#008F5D",
     "pureWhite": "#ffffff"
   },
   "ui": {
@@ -23,10 +24,16 @@
       "background": "dark",
       "foreground": "white",
       "borderColor": "gray",
+      "infoForeground": "gray4",
       "selectionBackground": "gray",
       "separatorColor": "gray",
       "selectionInactiveBackground": "gray",
       "selectionBackgroundInactive": "gray"
+    },
+    "RunWidget": {
+      "foreground": "white",
+      "separatorColor": "gray",
+      "hoverBackground": "primary"
     },
     "CheckBoxMenuItem.selectionBackground": "primary",
     "Button": {
@@ -64,6 +71,7 @@
         "inactiveBackground": "dark"
       }
     },
+    "ToolWindow.HeaderCloseButton.background": "primary",
     "WelcomeScreen.separatorColor": "gray",
     "DefaultTabs": {
       "hoverBackground": "gray",
@@ -110,6 +118,12 @@
       "failedEndColor": "redDeep",
       "passedColor": "green",
       "passedEndColor": "greenDeep"
+    },
+    "ActionButton": {
+      "pressedBackground": "gray3",
+      "pressedBorderColor": "gray3",
+      "hoverBackground": "gray3",
+      "hoverBorderColor": "gray3"
     },
     "Menu.selectionBackground": "primary",
     "FileColor": {
