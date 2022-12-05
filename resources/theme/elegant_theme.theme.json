@@ -27,6 +27,8 @@
   "ui": {
     "*": {
       "background": "dark",
+      "inactiveBackground": "gray",
+
       "foreground": "white",
       "borderColor": "gray",
       "infoForeground": "gray4",
@@ -56,9 +58,9 @@
       }
     },
     "Tree": {
-      "selectionBackground": "gray",
+      "selectionBackground": "primary",
       "selectionInactiveBackground": "gray",
-      "selectionForeground": "white",
+      "selectionForeground": "pureWhite",
       "rowHeight": 26
     },
     "EditorPane.inactiveBackground": "dark",
