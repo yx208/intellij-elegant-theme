@@ -28,14 +28,20 @@
     "*": {
       "background": "dark",
       "inactiveBackground": "gray",
-
       "foreground": "white",
+
       "borderColor": "gray",
+      "disabledBorderColor": "gray",
+      "separatorColor": "gray",
+
       "infoForeground": "gray4",
       "selectionBackground": "gray",
-      "separatorColor": "gray",
       "selectionInactiveBackground": "gray",
       "selectionBackgroundInactive": "gray"
+    },
+    "Borders": {
+      "color": "gray",
+      "ContrastBorderColor": "gray3"
     },
     "List": {
       "selectionBackground": "primary",
@@ -48,12 +54,18 @@
     },
     "CheckBoxMenuItem.selectionBackground": "primary",
     "Button": {
+
+      "startBackground": "gray3",
+      "endBackground": "gray3",
+      "startBorderColor": "gray3",
+      "endBorderColor": "gray3",
+
       "default": {
         "foreground": "white",
         "startBackground": "primary",
-        "endBackground": "primarySecond",
+        "endBackground": "primary",
         "startBorderColor": "primary",
-        "endBorderColor": "primarySecond",
+        "endBorderColor": "primary",
         "focusedBorderColor": "white"
       }
     },
@@ -148,6 +160,19 @@
       "Violet": "dark",
       "Orange": "dark",
       "Rose": "dark"
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default.Dark": "gray3",
+      "Checkbox.Border.Default.Dark": "gray3",
+      "Checkbox.Foreground.Selected.Dark": "white",
+      "Checkbox.Focus.Wide.Dark": "primary",
+      "Checkbox.Focus.Thin.Default.Dark": "primary",
+      "Checkbox.Focus.Thin.Selected.Dark": "white",
+      "Checkbox.Background.Disabled.Dark": "gray3",
+      "Checkbox.Border.Disabled.Dark": "gray3",
+      "Checkbox.Foreground.Disabled.Dark": "#a56a01"
     }
   }
 }
