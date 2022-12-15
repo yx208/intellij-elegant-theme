@@ -84,7 +84,7 @@
     },
     "EditorTabs": {
       "underlineColor": "primarySecond",
-      "inactiveUnderlineColor": "primarySecond",
+      "inactiveUnderlineColor": "gray4",
       "underlineHeight": 2,
       "underlinedTabBackground": "gray"
     },

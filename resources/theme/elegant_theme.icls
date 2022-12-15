@@ -13,24 +13,24 @@
     <option name="DOCUMENTATION_COLOR" value="26292e" />
     <option name="DOC_COMMENT_GUIDE" value="8f5d" />
     <option name="DOC_COMMENT_LINK" value="4997fa" />
-    <option name="HINT_BORDER" value="3c4149" />
-    <option name="INDENT_GUIDE" value="3c4149" />
+    <option name="HINT_BORDER" value="373b42" />
+    <option name="INDENT_GUIDE" value="373b42" />
     <option name="INFORMATION_HINT" value="26292e" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a9b7c6" />
+    <option name="LOOKUP_COLOR" value="26292e" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="2075eb" />
     <option name="PREVIEW_BACKGROUND" value="e55d0" />
     <option name="RECENT_LOCATIONS_SELECTION" value="26292e" />
-    <option name="RIGHT_MARGIN_COLOR" value="3c4149" />
-    <option name="SELECTED_INDENT_GUIDE" value="3c4149" />
-    <option name="SELECTION_BACKGROUND" value="3c4149" />
+    <option name="RIGHT_MARGIN_COLOR" value="373b42" />
+    <option name="SELECTED_INDENT_GUIDE" value="373b42" />
+    <option name="SELECTION_BACKGROUND" value="373b42" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5f6770" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="5f677080" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="5f6770" />
     <option name="ScrollBar.Transparent.thumbColor" value="5f677080" />
     <option name="ScrollBar.hoverThumbColor" value="5f6770" />
     <option name="ScrollBar.thumbColor" value="5f677080" />
-    <option name="VISUAL_INDENT_GUIDE" value="3c4149" />
-    <option name="LOOKUP_COLOR" value="26292e" />
+    <option name="VISUAL_INDENT_GUIDE" value="373b42" />
   </colors>
   <attributes>
     <option name="CONSOLE_USER_INPUT">
@@ -194,7 +194,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5f6770" />
-        <option name="BACKGROUND" value="3c4149" />
+        <option name="BACKGROUND" value="373b42" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -239,7 +239,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3c4149" />
+        <option name="BACKGROUND" value="3824" />
         <option name="ERROR_STRIPE_COLOR" value="b374" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -247,19 +247,19 @@
     <option name="INLAY_DEFAULT">
       <value>
         <option name="FOREGROUND" value="5f6770" />
-        <option name="BACKGROUND" value="3c4149" />
+        <option name="BACKGROUND" value="373b42" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="5f6770" />
-        <option name="BACKGROUND" value="3c4149" />
+        <option name="BACKGROUND" value="373b42" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="5f6770" />
-        <option name="BACKGROUND" value="3c4149" />
+        <option name="BACKGROUND" value="373b42" />
         <option name="EFFECT_COLOR" value="5f6770" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -330,8 +330,13 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffef28" />
-        <option name="BACKGROUND" value="3c4149" />
+        <option name="BACKGROUND" value="434952" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="5f6770" />
       </value>
     </option>
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
@@ -368,11 +373,6 @@
     <option name="OC.TYPEDEF">
       <value>
         <option name="FOREGROUND" value="c9a7" />
-      </value>
-    </option>
-    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="5f6770" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME">
@@ -443,7 +443,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3c4149" />
+        <option name="BACKGROUND" value="2e3238" />
         <option name="ERROR_STRIPE_COLOR" value="b374" />
       </value>
     </option>
