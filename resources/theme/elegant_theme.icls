@@ -35,7 +35,7 @@
   <attributes>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="b374" />
+        <option name="FOREGROUND" value="aa871" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -68,7 +68,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -108,7 +108,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -123,21 +123,14 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="e66060" />
       </value>
     </option>
-    <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="b374" />
-        <option name="EFFECT_COLOR" value="b374" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -168,6 +161,11 @@
         <option name="FOREGROUND" value="eb8800" />
       </value>
     </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="faebd" />
+      </value>
+    </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="eb8800" />
@@ -183,7 +181,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="b374" />
+        <option name="FOREGROUND" value="aa871" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -211,7 +209,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="b374" />
+        <option name="FOREGROUND" value="aa871" />
       </value>
     </option>
     <option name="HTML_CUSTOM_TAG_NAME">
@@ -221,7 +219,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="b374" />
+        <option name="FOREGROUND" value="aa871" />
       </value>
     </option>
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
@@ -234,13 +232,6 @@
       <value>
         <option name="FOREGROUND" value="2075eb" />
         <option name="EFFECT_COLOR" value="2075eb" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="344134" />
-        <option name="ERROR_STRIPE_COLOR" value="36b13" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -272,15 +263,16 @@
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
       </value>
     </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="KOTLIN_ABSTRACT_CLASS">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -298,7 +290,7 @@
     </option>
     <option name="KOTLIN_ENUM_ENTRY">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -313,13 +305,13 @@
     </option>
     <option name="KOTLIN_TRAIT">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
@@ -367,12 +359,12 @@
     </option>
     <option name="OC.STRUCT_LIKE">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
       </value>
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME">
@@ -513,7 +505,7 @@
     </option>
     <option name="org.rust.ENUM_VARIANT">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -557,7 +549,7 @@
     </option>
     <option name="org.rust.TRAIT">
       <value>
-        <option name="FOREGROUND" value="c9a7" />
+        <option name="FOREGROUND" value="c2a1" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -567,6 +559,7 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.26" />
