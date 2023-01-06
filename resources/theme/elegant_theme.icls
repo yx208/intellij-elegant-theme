@@ -31,6 +31,7 @@
     <option name="ScrollBar.hoverThumbColor" value="5f6770" />
     <option name="ScrollBar.thumbColor" value="5f677080" />
     <option name="VISUAL_INDENT_GUIDE" value="373b42" />
+    <option name="GUTTER_BACKGROUND" value="26292e" />
   </colors>
   <attributes>
     <option name="CONSOLE_USER_INPUT">
@@ -127,6 +128,12 @@
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
@@ -515,7 +522,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="eb8800" />
@@ -528,7 +534,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.MODULE">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -559,7 +564,6 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.26" />
