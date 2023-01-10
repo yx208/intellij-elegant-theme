@@ -13,6 +13,7 @@
     <option name="DOCUMENTATION_COLOR" value="26292e" />
     <option name="DOC_COMMENT_GUIDE" value="8f5d" />
     <option name="DOC_COMMENT_LINK" value="4997fa" />
+    <option name="GUTTER_BACKGROUND" value="26292e" />
     <option name="HINT_BORDER" value="373b42" />
     <option name="INDENT_GUIDE" value="373b42" />
     <option name="INFORMATION_HINT" value="26292e" />
@@ -31,7 +32,6 @@
     <option name="ScrollBar.hoverThumbColor" value="5f6770" />
     <option name="ScrollBar.thumbColor" value="5f677080" />
     <option name="VISUAL_INDENT_GUIDE" value="373b42" />
-    <option name="GUTTER_BACKGROUND" value="26292e" />
   </colors>
   <attributes>
     <option name="CONSOLE_USER_INPUT">
@@ -170,7 +170,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="faebd" />
+        <option name="FOREGROUND" value="10b9c9" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
