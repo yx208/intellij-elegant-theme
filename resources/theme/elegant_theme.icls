@@ -25,12 +25,12 @@
     <option name="RIGHT_MARGIN_COLOR" value="373b42" />
     <option name="SELECTED_INDENT_GUIDE" value="373b42" />
     <option name="SELECTION_BACKGROUND" value="373b42" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5f6770" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="5f677080" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="5f6770" />
-    <option name="ScrollBar.Transparent.thumbColor" value="5f677080" />
-    <option name="ScrollBar.hoverThumbColor" value="5f6770" />
-    <option name="ScrollBar.thumbColor" value="5f677080" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5B697C" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="5B697C80" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="5B697C" />
+    <option name="ScrollBar.Transparent.thumbColor" value="5B697C80" />
+    <option name="ScrollBar.hoverThumbColor" value="5B697C" />
+    <option name="ScrollBar.thumbColor" value="5B697C80" />
     <option name="VISUAL_INDENT_GUIDE" value="373b42" />
   </colors>
   <attributes>
@@ -63,7 +63,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -74,7 +74,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -154,7 +154,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -181,7 +181,7 @@
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -198,7 +198,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
         <option name="BACKGROUND" value="373b42" />
       </value>
     </option>
@@ -244,21 +244,21 @@
     </option>
     <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
         <option name="BACKGROUND" value="373b42" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
         <option name="BACKGROUND" value="373b42" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
         <option name="BACKGROUND" value="373b42" />
-        <option name="EFFECT_COLOR" value="5f6770" />
+        <option name="EFFECT_COLOR" value="5B697C" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -335,12 +335,12 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
       </value>
     </option>
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
       </value>
     </option>
     <option name="OC.MACRONAME">
@@ -500,7 +500,7 @@
     </option>
     <option name="org.rust.CFG_DISABLED_CODE">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5B697C" />
       </value>
     </option>
     <option name="org.rust.DOC_LINK">
