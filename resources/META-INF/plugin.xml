@@ -36,4 +36,9 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="elegant-theme-dark" path="/theme/elegant_theme.theme.json"/>
     </extensions>
+
+    <projectListeners>
+        <listener class="main.StartListener" topic="com.intellij.openapi.project.ProjectManagerListener"/>
+    </projectListeners>
+
 </idea-plugin>
