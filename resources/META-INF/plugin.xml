@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>elegant-theme</id>
-    <version>1.1.5</version>
+    <version>1.1.6</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -19,6 +19,9 @@
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
     <p>Elegant theme and color scheme for Jetbrains.</p>
+    <ul>
+        <li>Specifically optimized for Rust</li>
+    </ul>
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
