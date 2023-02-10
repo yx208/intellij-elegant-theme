@@ -4,7 +4,7 @@ Elegant theme and color scheme for Jetbrains.
 
 ![elegant-theme example](https://raw.githubusercontent.com/yx208/elegant-theme/main/examples/code.png)
 
-## Color schema
+## Color scheme
 
 ![elegant-theme example](https://raw.githubusercontent.com/yx208/elegant-theme/main/examples/color-schema.svg)
 
