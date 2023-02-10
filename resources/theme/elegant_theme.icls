@@ -170,7 +170,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="4dbbff" />
+        <option name="FOREGROUND" value="49b3f5" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -505,7 +505,7 @@
     </option>
     <option name="org.rust.CONST_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="4dbbff" />
+        <option name="FOREGROUND" value="49B3F5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -556,8 +556,8 @@
     </option>
     <option name="org.rust.MUT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="4dbbff" />
-        <option name="EFFECT_COLOR" value="4dbbff" />
+        <option name="FOREGROUND" value="49B3F5" />
+        <option name="EFFECT_COLOR" value="49B3F5" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
