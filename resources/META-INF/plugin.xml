@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>elegant-theme</id>
-    <version>1.1.3</version>
+    <version>1.1.7</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -18,15 +18,17 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    <p>Elegant <i>theme</i> and <i>color scheme</i> for Jetbrains.</p>
+    <p>Elegant theme and color scheme for Jetbrains.</p>
+    <img src="https://raw.githubusercontent.com/yx208/elegant-theme/main/examples/code.png" alt="elegant-theme example" />
+    <p>Color schema</p>
+    <img src="https://raw.githubusercontent.com/yx208/elegant-theme/main/examples/color-schema.svg" alt="elegant-theme example" />
+    <p>If you have any good idea or find a bug, you can open an issue to tell me!</p>
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-    <ul>
-        <li>optimization</li>
-    </ul>
+    <p>Optimized some things!</p>
   ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.

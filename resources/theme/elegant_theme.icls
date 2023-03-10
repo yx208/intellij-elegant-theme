@@ -25,12 +25,12 @@
     <option name="RIGHT_MARGIN_COLOR" value="373b42" />
     <option name="SELECTED_INDENT_GUIDE" value="373b42" />
     <option name="SELECTION_BACKGROUND" value="373b42" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5f6770" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="5f677080" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="5f6770" />
-    <option name="ScrollBar.Transparent.thumbColor" value="5f677080" />
-    <option name="ScrollBar.hoverThumbColor" value="5f6770" />
-    <option name="ScrollBar.thumbColor" value="5f677080" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5b697c" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="5b697c80" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="5b697c" />
+    <option name="ScrollBar.Transparent.thumbColor" value="5b697c80" />
+    <option name="ScrollBar.hoverThumbColor" value="5b697c" />
+    <option name="ScrollBar.thumbColor" value="5b697c80" />
     <option name="VISUAL_INDENT_GUIDE" value="373b42" />
   </colors>
   <attributes>
@@ -63,7 +63,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -74,7 +74,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -154,7 +154,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -170,7 +170,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="10b9c9" />
+        <option name="FOREGROUND" value="49b3f5" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -181,7 +181,7 @@
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -198,7 +198,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
         <option name="BACKGROUND" value="373b42" />
       </value>
     </option>
@@ -244,21 +244,21 @@
     </option>
     <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
         <option name="BACKGROUND" value="373b42" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
         <option name="BACKGROUND" value="373b42" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
         <option name="BACKGROUND" value="373b42" />
-        <option name="EFFECT_COLOR" value="5f6770" />
+        <option name="EFFECT_COLOR" value="5b697c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -335,12 +335,12 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
       </value>
     </option>
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
       </value>
     </option>
     <option name="OC.MACRONAME">
@@ -500,7 +500,13 @@
     </option>
     <option name="org.rust.CFG_DISABLED_CODE">
       <value>
-        <option name="FOREGROUND" value="5f6770" />
+        <option name="FOREGROUND" value="5b697c" />
+      </value>
+    </option>
+    <option name="org.rust.CONST_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="49B3F5" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.DOC_LINK">
@@ -512,7 +518,7 @@
     </option>
     <option name="org.rust.ENUM_VARIANT">
       <value>
-        <option name="FOREGROUND" value="c2a1" />
+        <option name="FOREGROUND" value="a9b7c6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -522,6 +528,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="eb8800" />
@@ -549,7 +556,8 @@
     </option>
     <option name="org.rust.MUT_PARAMETER">
       <value>
-        <option name="EFFECT_COLOR" value="a9b7c6" />
+        <option name="FOREGROUND" value="49B3F5" />
+        <option name="EFFECT_COLOR" value="49B3F5" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -566,13 +574,5 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
-    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
   </attributes>
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.26" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
 </scheme>
