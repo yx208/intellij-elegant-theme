@@ -17,6 +17,7 @@
     <option name="HINT_BORDER" value="373b42" />
     <option name="INDENT_GUIDE" value="373b42" />
     <option name="INFORMATION_HINT" value="26292e" />
+    <option name="LINE_NUMBERS_COLOR" value="434952" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a9b7c6" />
     <option name="LOOKUP_COLOR" value="26292e" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="2075eb" />
@@ -24,6 +25,7 @@
     <option name="RECENT_LOCATIONS_SELECTION" value="26292e" />
     <option name="RIGHT_MARGIN_COLOR" value="373b42" />
     <option name="SELECTED_INDENT_GUIDE" value="373b42" />
+    <option name="SELECTED_TEARLINE_COLOR" value="2075eb" />
     <option name="SELECTION_BACKGROUND" value="373b42" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5b697c" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="5b697c80" />
@@ -31,9 +33,32 @@
     <option name="ScrollBar.Transparent.thumbColor" value="5b697c80" />
     <option name="ScrollBar.hoverThumbColor" value="5b697c" />
     <option name="ScrollBar.thumbColor" value="5b697c80" />
+    <option name="TEARLINE_COLOR" value="373b42" />
     <option name="VISUAL_INDENT_GUIDE" value="373b42" />
   </colors>
   <attributes>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="434952" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2075eb" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="aa871" />
@@ -54,6 +79,18 @@
       <value>
         <option name="FOREGROUND" value="4997fa" />
         <option name="EFFECT_COLOR" value="4997fa" />
+      </value>
+    </option>
+    <option name="DART_ENUM">
+      <value>
+        <option name="FOREGROUND" value="c2a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DART_SYMBOL_LITERAL">
+      <value>
+        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -239,6 +276,12 @@
       <value>
         <option name="FOREGROUND" value="2075eb" />
         <option name="EFFECT_COLOR" value="2075eb" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="a9b7c6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -505,7 +548,7 @@
     </option>
     <option name="org.rust.CONST_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="49B3F5" />
+        <option name="FOREGROUND" value="49b3f5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -528,7 +571,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="eb8800" />
@@ -541,7 +583,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.MODULE">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -556,14 +597,13 @@
     </option>
     <option name="org.rust.MUT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="49B3F5" />
-        <option name="EFFECT_COLOR" value="49B3F5" />
+        <option name="FOREGROUND" value="49b3f5" />
+        <option name="EFFECT_COLOR" value="49b3f5" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="org.rust.TRAIT">
       <value>
-        <option name="FOREGROUND" value="c2a1" />
         <option name="FOREGROUND" value="c2a1" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
