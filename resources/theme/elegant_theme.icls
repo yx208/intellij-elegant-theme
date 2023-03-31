@@ -614,5 +614,7 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
+    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
   </attributes>
 </scheme>
