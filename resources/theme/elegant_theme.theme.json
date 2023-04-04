@@ -49,17 +49,14 @@
     },
     "RunWidget": {
       "foreground": "white",
-      "separatorColor": "gray",
-      "hoverBackground": "primary"
+      "runModeIconColor": "green"
     },
     "CheckBoxMenuItem.selectionBackground": "primary",
     "Button": {
-
       "startBackground": "gray3",
       "endBackground": "gray3",
       "startBorderColor": "gray3",
       "endBorderColor": "gray3",
-
       "default": {
         "foreground": "white",
         "startBackground": "primary",
@@ -73,7 +70,8 @@
       "selectionBackground": "primary",
       "selectionInactiveBackground": "gray",
       "selectionForeground": "pureWhite",
-      "rowHeight": 26
+      "rowHeight": 26,
+      "hash": "gray3"
     },
     "EditorPane.inactiveBackground": "dark",
     "CompletionPopup": {
@@ -153,6 +151,11 @@
       "newNotification.background": "gray",
       "Notification.hoverBackground": "gray"
     },
+    "ComboBox": {
+      "ArrowButton.nonEditableBackground": "dark",
+      "nonEditableBackground": "dark",
+      "disabledBackground": "gray2"
+    },
     "FileColor": {
       "Yellow": "dark",
       "Green": "dark",
@@ -164,14 +167,14 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "gray3",
-      "Checkbox.Border.Default.Dark": "gray3",
+      "Checkbox.Background.Default.Dark": "gray2",
+      "Checkbox.Border.Default.Dark": "gray2",
       "Checkbox.Foreground.Selected.Dark": "white",
       "Checkbox.Focus.Wide.Dark": "primary",
       "Checkbox.Focus.Thin.Default.Dark": "primary",
       "Checkbox.Focus.Thin.Selected.Dark": "white",
-      "Checkbox.Background.Disabled.Dark": "gray3",
-      "Checkbox.Border.Disabled.Dark": "gray3",
+      "Checkbox.Background.Disabled.Dark": "gray2",
+      "Checkbox.Border.Disabled.Dark": "gray2",
       "Checkbox.Foreground.Disabled.Dark": "#a56a01"
     }
   }
