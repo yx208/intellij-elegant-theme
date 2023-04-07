@@ -9,7 +9,8 @@
     "gray": "#30353d",
     "gray2": "#2d3138",
     "gray3": "#383e47",
-    "gray4": "#5B697C",
+    "gray4": "#464f61",
+    "gray5": "#5B697C",
 
     "primary": "#085dc2",
     "primarySecond": "#2077f1",
@@ -34,7 +35,7 @@
       "disabledBorderColor": "gray",
       "separatorColor": "gray",
 
-      "infoForeground": "gray4",
+      "infoForeground": "gray5",
       "selectionBackground": "gray",
       "selectionInactiveBackground": "gray",
       "selectionBackgroundInactive": "gray"
@@ -80,9 +81,10 @@
       "selectionBackground": "gray2",
       "selectionInactiveBackground": "gray2"
     },
+
     "EditorTabs": {
       "underlineColor": "primarySecond",
-      "inactiveUnderlineColor": "gray4",
+      "inactiveUnderlineColor": "gray5",
       "underlineHeight": 2,
       "underlinedTabBackground": "gray"
     },
@@ -152,9 +154,11 @@
       "Notification.hoverBackground": "gray"
     },
     "ComboBox": {
-      "ArrowButton.nonEditableBackground": "dark",
       "nonEditableBackground": "dark",
-      "disabledBackground": "gray2"
+      "disabledBackground": "gray2",
+      "ArrowButton": {
+        "nonEditableBackground": "dark"
+      }
     },
     "FileColor": {
       "Yellow": "dark",
@@ -167,14 +171,14 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "gray2",
-      "Checkbox.Border.Default.Dark": "gray2",
+      "Checkbox.Background.Default.Dark": "gray3",
+      "Checkbox.Border.Default.Dark": "gray3",
       "Checkbox.Foreground.Selected.Dark": "white",
       "Checkbox.Focus.Wide.Dark": "primary",
       "Checkbox.Focus.Thin.Default.Dark": "primary",
       "Checkbox.Focus.Thin.Selected.Dark": "white",
-      "Checkbox.Background.Disabled.Dark": "gray2",
-      "Checkbox.Border.Disabled.Dark": "gray2",
+      "Checkbox.Background.Disabled.Dark": "gray3",
+      "Checkbox.Border.Disabled.Dark": "gray3",
       "Checkbox.Foreground.Disabled.Dark": "#a56a01"
     }
   }
