@@ -9,20 +9,20 @@
   <colors>
     <option name="CARET_COLOR" value="2075eb" />
     <option name="CARET_ROW_COLOR" value="2e3238" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="26292e" />
-    <option name="DOCUMENTATION_COLOR" value="26292e" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="24262b" />
+    <option name="DOCUMENTATION_COLOR" value="24262b" />
     <option name="DOC_COMMENT_GUIDE" value="8f5d" />
     <option name="DOC_COMMENT_LINK" value="4997fa" />
-    <option name="GUTTER_BACKGROUND" value="26292e" />
+    <option name="GUTTER_BACKGROUND" value="24262b" />
     <option name="HINT_BORDER" value="373b42" />
     <option name="INDENT_GUIDE" value="373b42" />
-    <option name="INFORMATION_HINT" value="26292e" />
+    <option name="INFORMATION_HINT" value="24262b" />
     <option name="LINE_NUMBERS_COLOR" value="434952" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a9b7c6" />
-    <option name="LOOKUP_COLOR" value="26292e" />
+    <option name="LOOKUP_COLOR" value="24262b" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="2075eb" />
-    <option name="PREVIEW_BACKGROUND" value="26292e" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="26292e" />
+    <option name="PREVIEW_BACKGROUND" value="24262b" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="24262b" />
     <option name="RIGHT_MARGIN_COLOR" value="373b42" />
     <option name="SELECTED_INDENT_GUIDE" value="373b42" />
     <option name="SELECTED_TEARLINE_COLOR" value="2075eb" />
@@ -460,7 +460,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="26292e" />
+        <option name="BACKGROUND" value="24262b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
