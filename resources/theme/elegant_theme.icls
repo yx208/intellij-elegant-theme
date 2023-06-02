@@ -8,7 +8,6 @@
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="2075eb" />
-    <option name="CARET_ROW_COLOR" value="2e3238" />
     <option name="CONSOLE_BACKGROUND_KEY" value="222429" />
     <option name="DOCUMENTATION_COLOR" value="222429" />
     <option name="DOC_COMMENT_GUIDE" value="8f5d" />
@@ -35,6 +34,7 @@
     <option name="ScrollBar.thumbColor" value="5b697c80" />
     <option name="TEARLINE_COLOR" value="373b42" />
     <option name="VISUAL_INDENT_GUIDE" value="373b42" />
+    <option name="CARET_ROW_COLOR" value="2b2f36" />
   </colors>
   <attributes>
     <option name="BREADCRUMBS_CURRENT">
@@ -61,7 +61,7 @@
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="aa871" />
+        <option name="FOREGROUND" value="39e68" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -225,7 +225,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="aa871" />
+        <option name="FOREGROUND" value="39e68" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -253,7 +253,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="aa871" />
+        <option name="FOREGROUND" value="39e68" />
       </value>
     </option>
     <option name="HTML_CUSTOM_TAG_NAME">
@@ -263,7 +263,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="aa871" />
+        <option name="FOREGROUND" value="39e68" />
       </value>
     </option>
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
@@ -453,7 +453,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2e3238" />
+        <option name="BACKGROUND" value="2B2F36" />
         <option name="EFFECT_COLOR" value="2075eb" />
       </value>
     </option>
@@ -466,7 +466,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2e3238" />
+        <option name="BACKGROUND" value="2B2F36" />
         <option name="EFFECT_COLOR" value="2075eb" />
         <option name="ERROR_STRIPE_COLOR" value="2075eb" />
       </value>
@@ -505,7 +505,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2e3238" />
+        <option name="BACKGROUND" value="2B2F36" />
         <option name="EFFECT_COLOR" value="2075eb" />
       </value>
     </option>
