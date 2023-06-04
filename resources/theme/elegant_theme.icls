@@ -8,6 +8,7 @@
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="2075eb" />
+    <option name="CARET_ROW_COLOR" value="2b2f36" />
     <option name="CONSOLE_BACKGROUND_KEY" value="222429" />
     <option name="DOCUMENTATION_COLOR" value="222429" />
     <option name="DOC_COMMENT_GUIDE" value="8f5d" />
@@ -34,7 +35,6 @@
     <option name="ScrollBar.thumbColor" value="5b697c80" />
     <option name="TEARLINE_COLOR" value="373b42" />
     <option name="VISUAL_INDENT_GUIDE" value="373b42" />
-    <option name="CARET_ROW_COLOR" value="2b2f36" />
   </colors>
   <attributes>
     <option name="BREADCRUMBS_CURRENT">
@@ -317,7 +317,16 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.EXPORTED.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="e66060" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
@@ -453,7 +462,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2B2F36" />
+        <option name="BACKGROUND" value="2b2f36" />
         <option name="EFFECT_COLOR" value="2075eb" />
       </value>
     </option>
@@ -466,7 +475,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2B2F36" />
+        <option name="BACKGROUND" value="2b2f36" />
         <option name="EFFECT_COLOR" value="2075eb" />
         <option name="ERROR_STRIPE_COLOR" value="2075eb" />
       </value>
@@ -505,7 +514,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2B2F36" />
+        <option name="BACKGROUND" value="2b2f36" />
         <option name="EFFECT_COLOR" value="2075eb" />
       </value>
     </option>
@@ -592,7 +601,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="eb8800" />
@@ -605,7 +613,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.MODULE">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -637,5 +644,6 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
+    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
   </attributes>
 </scheme>
