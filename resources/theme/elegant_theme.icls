@@ -613,6 +613,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.MODULE">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -644,6 +645,6 @@
         <option name="FOREGROUND" value="ffad3d" />
       </value>
     </option>
-    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
   </attributes>
 </scheme>
