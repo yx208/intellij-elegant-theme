@@ -5,6 +5,7 @@
   "editorScheme": "/theme/elegant_theme.icls",
   "colors": {
     "dark": "#222429",
+    "blueDeep": "#0c346e",
 
     "gray": "#30353d",
     "gray2": "#2d3138",
@@ -50,6 +51,7 @@
     },
     "RunWidget": {
       "foreground": "white",
+      "runIconColor": "green",
       "runModeIconColor": "green"
     },
     "CheckBoxMenuItem.selectionBackground": "primary",
