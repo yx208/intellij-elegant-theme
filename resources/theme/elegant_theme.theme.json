@@ -5,6 +5,7 @@
   "editorScheme": "/theme/elegant_theme.icls",
   "colors": {
     "dark": "#222429",
+    "codeDark": "#1e1f22",
     "blueDeep": "#0c346e",
 
     "gray": "#30353d",
@@ -24,7 +25,10 @@
     "redDeep": "#990536",
 
     "green": "#039E68",
-    "greenDeep": "#008F5D"
+    "greenDeep": "#008F5D",
+
+    "scrollThumb": "#5b697c36",
+    "scrollHoverThumb": "#5b697c60"
   },
   "ui": {
     "*": {
@@ -40,6 +44,24 @@
       "selectionBackground": "gray",
       "selectionInactiveBackground": "gray",
       "selectionBackgroundInactive": "gray"
+    },
+    "ScrollBar": {
+      "Mac": {
+        "thumbColor": "scrollThumb",
+        "hoverThumbColor": "scrollHoverThumb",
+        "hoverTrackColor": "dark",
+        "trackColor": "dark"
+      },
+      "Transparent": {
+        "thumbColor": "scrollThumb",
+        "hoverThumbColor": "scrollHoverThumb",
+        "hoverTrackColor": "dark",
+        "trackColor": "dark"
+      },
+      "thumbColor": "scrollThumb",
+      "hoverThumbColor": "scrollHoverThumb",
+      "hoverTrackColor": "dark",
+      "trackColor": "dark"
     },
     "Borders": {
       "color": "gray",
