@@ -1,8 +1,8 @@
 {
-  "name": "Elegant Theme",
+  "name": "Elegant Dark",
   "dark": true,
   "author": "yx208",
-  "editorScheme": "/theme/elegant_theme.icls",
+  "editorScheme": "/theme/elegant_dark_theme.xml",
   "colors": {
     "dark": "#222429",
     "codeDark": "#1e1f22",
