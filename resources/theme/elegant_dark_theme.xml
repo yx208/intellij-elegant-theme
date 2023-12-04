@@ -72,7 +72,7 @@
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -89,7 +89,7 @@
     </option>
     <option name="DART_SYMBOL_LITERAL">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -128,9 +128,9 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ffad3d" />
+        <option name="EFFECT_COLOR" value="E0992D" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -186,7 +186,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -197,7 +197,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -248,7 +248,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -344,7 +344,7 @@
     </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -382,7 +382,7 @@
     </option>
     <option name="LOG_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -435,12 +435,12 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
@@ -457,7 +457,7 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -482,7 +482,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="4997fa" />
       </value>
@@ -496,13 +496,13 @@
     </option>
     <option name="TS.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffad3d" />
-        <option name="ERROR_STRIPE_COLOR" value="ffad3d" />
+        <option name="EFFECT_COLOR" value="E0992D" />
+        <option name="ERROR_STRIPE_COLOR" value="E0992D" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -528,7 +528,7 @@
     <option name="XML_CUSTOM_TAG_NAME" baseAttributes="XML_TAG_NAME" />
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -573,7 +573,7 @@
     </option>
     <option name="YAML_TEXT">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -648,7 +648,7 @@
     </option>
     <option name="org.rust.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffad3d" />
+        <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
     <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
