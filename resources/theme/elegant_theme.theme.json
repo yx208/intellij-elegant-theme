@@ -45,6 +45,10 @@
       "selectionInactiveBackground": "gray",
       "selectionBackgroundInactive": "gray"
     },
+    "MemoryIndicator": {
+      "allocatedBackground": "gray3",
+      "usedBackground": "gray4"
+    },
     "ScrollBar": {
       "Mac": {
         "thumbColor": "scrollThumb",
@@ -105,7 +109,6 @@
       "selectionBackground": "gray2",
       "selectionInactiveBackground": "gray2"
     },
-
     "EditorTabs": {
       "underlineColor": "primarySecond",
       "inactiveUnderlineColor": "gray5",
