@@ -499,6 +499,11 @@
         <option name="FOREGROUND" value="E0992D" />
       </value>
     </option>
+    <option name="TS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="00C2A1" />
+      </value>
+    </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="E0992D" />

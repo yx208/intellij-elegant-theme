@@ -29,7 +29,7 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
     <ol>
-        <li>Memory indicator UI</li>
+        <li>Reset memory indicator UI</li>
     </ol>
   ]]></change-notes>
 
