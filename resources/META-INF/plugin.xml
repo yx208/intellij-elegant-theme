@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>elegant-theme</id>
-    <version>1.2.3</version>
+    <version>1.2.4</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -30,6 +30,7 @@
     <change-notes><![CDATA[
     <ol>
         <li>Reset memory indicator UI</li>
+        <li>Optimize the color usage in SASS</li>
     </ol>
   ]]></change-notes>
 
@@ -38,6 +39,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="elegant-theme-dark" path="/theme/elegant_theme.theme.json"/>
+        <themeProvider id="elegant-theme-dark" path="/theme/elegant_dark.theme.json"/>
     </extensions>
 </idea-plugin>
