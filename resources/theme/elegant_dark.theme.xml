@@ -87,6 +87,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DART_PARAMETER_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
     <option name="DART_SYMBOL_LITERAL">
       <value>
         <option name="FOREGROUND" value="E0992D" />
