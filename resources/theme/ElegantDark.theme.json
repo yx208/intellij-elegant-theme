@@ -1,8 +1,8 @@
 {
-  "name": "Elegant Dark",
+  "name": "ElegantDark",
   "dark": true,
   "author": "yx208",
-  "editorScheme": "/theme/elegant_dark.theme.xml",
+  "editorScheme": "/theme/ElegantDark.theme.xml",
   "colors": {
     "dark": "#222429",
     "codeDark": "#1e1f22",
