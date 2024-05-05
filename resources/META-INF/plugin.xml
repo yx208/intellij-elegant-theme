@@ -18,16 +18,18 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    <p>Elegant theme and color scheme for Jetbrains.</p>
-    <img src="https://raw.githubusercontent.com/yx208/elegant-theme/main/examples/code.png" alt="elegant-theme example" />
-    <p>Color schema</p>
-    <img src="https://raw.githubusercontent.com/yx208/elegant-theme/main/examples/color-schema.svg" alt="elegant-theme example" />
-    <p>If you have any good idea or find a bug, you can open an issue to tell me!</p>
-  ]]></description>
+        <p>Elegant theme and color scheme for Jetbrains.</p>
+        <img src="https://raw.githubusercontent.com/yx208/elegant-theme/main/examples/code.png" alt="elegant-theme example" />
+        <p>Color schema</p>
+        <img src="https://raw.githubusercontent.com/yx208/elegant-theme/main/examples/color-schema.svg" alt="elegant-theme example" />
+        <p>If you have any good idea or find a bug, you can open an issue to tell me!</p>
+    ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
-    <change-notes><![CDATA[]]></change-notes>
+    <change-notes><![CDATA[
+        The background color of the selected area has been changed to a less glaring color, making it easier to distinguish from the line where the cursor is located.
+    ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
