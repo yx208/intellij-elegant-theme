@@ -45,6 +45,14 @@
       "selectionInactiveBackground": "gray",
       "selectionBackgroundInactive": "gray"
     },
+    "MainToolbar": {
+      "Dropdown": {
+        "hoverBackground": "gray3"
+      },
+      "Icon": {
+        "hoverBackground": "gray3"
+      }
+    },
     "MemoryIndicator": {
       "allocatedBackground": "gray3",
       "usedBackground": "gray4"
@@ -73,8 +81,10 @@
     },
     "List": {
       "selectionBackground": "primary",
-      "selectionForeground": "white"
+      "selectionForeground": "white",
+      "rowHeight": 24
     },
+    "List.selectionInactiveForeground": "primary",
     "RunWidget": {
       "foreground": "white",
       "runIconColor": "green",
@@ -174,7 +184,12 @@
       "hoverBackground": "gray3",
       "hoverBorderColor": "gray3"
     },
-    "Menu.selectionBackground": "primary",
+    "Menu": {
+      "selectionBackground": "primary",
+      "Selection": {
+        "arc": 10
+      }
+    },
     "NotificationsToolwindow": {
       "newNotification.hoverBackground": "gray",
       "newNotification.background": "gray",

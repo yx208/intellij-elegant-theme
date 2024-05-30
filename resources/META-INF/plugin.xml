@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>elegant-theme</id>
-    <version>1.2.8</version>
+    <version>1.2.9</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -28,7 +28,8 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        The background color of the selected area has been changed to a less glaring color, making it easier to distinguish from the line where the cursor is located.
+        - Adjust the right-click menu height to make it look less crowded
+        - Some non-intuitive visual adjustments
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
