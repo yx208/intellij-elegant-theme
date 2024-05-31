@@ -9,7 +9,7 @@
     <option name="CARET_ROW_COLOR" value="2b2f36" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1e1f22" />
     <option name="DOCUMENTATION_COLOR" value="1e1f22" />
-    <option name="DOC_COMMENT_GUIDE" value="8f5d" />
+    <option name="DOC_COMMENT_GUIDE" value="9963" />
     <option name="DOC_COMMENT_LINK" value="4997fa" />
     <option name="GUTTER_BACKGROUND" value="1e1f22" />
     <option name="HINT_BORDER" value="373b42" />
@@ -59,7 +59,7 @@
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="39e68" />
+        <option name="FOREGROUND" value="9963" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -132,7 +132,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8f5d" />
+        <option name="FOREGROUND" value="9963" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -235,7 +235,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="39e68" />
+        <option name="FOREGROUND" value="9963" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -263,7 +263,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="39e68" />
+        <option name="FOREGROUND" value="9963" />
       </value>
     </option>
     <option name="HTML_CUSTOM_TAG_NAME">
@@ -273,7 +273,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="39e68" />
+        <option name="FOREGROUND" value="9963" />
       </value>
     </option>
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
