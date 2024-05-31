@@ -82,16 +82,22 @@
     "List": {
       "selectionBackground": "primary",
       "selectionForeground": "white",
+      "selectionInactiveForeground": "primary",
       "rowHeight": 24
     },
-    "List.selectionInactiveForeground": "primary",
     "RunWidget": {
       "foreground": "white",
       "runIconColor": "green",
       "runModeIconColor": "green"
     },
     "CheckBoxMenuItem.selectionBackground": "primary",
+    "CheckBox": {
+      "disabledText": "gray3",
+      "textIconGap": 5
+    },
+    "Label.infoForeground": "gra3",
     "Button": {
+      "disabledText": "gray3",
       "startBackground": "gray3",
       "endBackground": "gray3",
       "startBorderColor": "gray3",
@@ -197,7 +203,8 @@
     },
     "ComboBox": {
       "nonEditableBackground": "dark",
-      "disabledBackground": "gray2",
+      "disabledForeground": "gray3",
+      "disabledBackground": "dark",
       "ArrowButton": {
         "nonEditableBackground": "dark"
       }
@@ -209,7 +216,9 @@
       "Violet": "dark",
       "Orange": "dark",
       "Rose": "dark"
-    }
+    },
+    "TextField.inactiveForeground": "gray3",
+    "Label.disabledForeground": "gray3"
   },
   "icons": {
     "ColorPalette": {
