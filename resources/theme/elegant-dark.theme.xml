@@ -70,7 +70,7 @@
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -99,7 +99,7 @@
     </option>
     <option name="DART_SYMBOL_LITERAL">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -138,9 +138,9 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="E0992D" />
+        <option name="EFFECT_COLOR" value="e0992d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -175,7 +175,12 @@
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a7b4c2" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
@@ -191,7 +196,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -202,7 +207,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -253,7 +258,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -288,6 +293,11 @@
       <value>
         <option name="EFFECT_COLOR" value="A7B4C2" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="BACKGROUND" value="293c40" />
       </value>
     </option>
     <option name="INLAY_DEFAULT">
@@ -349,7 +359,7 @@
     </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -387,8 +397,40 @@
     </option>
     <option name="LOG_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
+    </option>
+    <option name="MARKDOWN_AUTO_LINK">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+        <option name="EFFECT_COLOR" value="4997fa" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_IMAGE">
+      <value>
+        <option name="FOREGROUND" value="a7b4c2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_INLINE_HTML">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_DEFINITION">
+      <value />
+    </option>
+    <option name="MARKDOWN_LINK_DESTINATION">
+      <value />
+    </option>
+    <option name="MARKDOWN_LINK_TEXT">
+      <value>
+        <option name="FOREGROUND" value="e66060" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_REFERENCE_LINK">
+      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
@@ -440,12 +482,12 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
@@ -462,7 +504,7 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
     <option name="SASS_COMMENT">
@@ -527,13 +569,13 @@
     </option>
     <option name="TS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="00B899" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="E0992D" />
-        <option name="ERROR_STRIPE_COLOR" value="E0992D" />
+        <option name="EFFECT_COLOR" value="e0992d" />
+        <option name="ERROR_STRIPE_COLOR" value="e0992d" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -559,11 +601,12 @@
     <option name="XML_CUSTOM_TAG_NAME" baseAttributes="XML_TAG_NAME" />
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="4997fa" />
@@ -604,7 +647,7 @@
     </option>
     <option name="YAML_TEXT">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -679,7 +722,7 @@
     </option>
     <option name="org.rust.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
     <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />

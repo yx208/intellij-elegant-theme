@@ -20,7 +20,9 @@
     "pureWhite": "#ffffff",
     "white": "#d0d1da",
     "white2": "#A9B7C6",
-    "treeText": "#b6bbc2",
+
+    "treeText": "#c0c5cc",
+    "treeSelection": "#06438f",
 
     "red": "#e80854",
     "redDeep": "#990536",
@@ -35,7 +37,7 @@
     "*": {
       "background": "dark",
       "inactiveBackground": "gray",
-      "foreground": "white",
+      "foreground": "treeText",
 
       "borderColor": "gray",
       "disabledBorderColor": "gray",
@@ -51,7 +53,8 @@
         "hoverBackground": "gray3"
       },
       "Icon": {
-        "hoverBackground": "gray3"
+        "hoverBackground": "gray3",
+        "pressedBackground": "gray3"
       }
     },
     "MemoryIndicator": {
