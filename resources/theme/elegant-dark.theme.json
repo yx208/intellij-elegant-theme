@@ -20,11 +20,12 @@
     "pureWhite": "#ffffff",
     "white": "#d0d1da",
     "white2": "#A9B7C6",
+    "treeText": "#b1b6bd",
 
     "red": "#e80854",
     "redDeep": "#990536",
 
-    "green": "#039E68",
+    "green": "#009460",
     "greenDeep": "#008F5D",
 
     "scrollThumb": "#5b697c36",
@@ -112,6 +113,7 @@
       }
     },
     "Tree": {
+      "foreground": "treeText",
       "selectionBackground": "primary",
       "selectionInactiveBackground": "gray",
       "selectionForeground": "pureWhite",
@@ -218,19 +220,20 @@
       "Rose": "dark"
     },
     "TextField.inactiveForeground": "gray3",
-    "Label.disabledForeground": "gray3"
+    "Label.disabledForeground": "gray3",
+    "RadioButton.disabledText": "gray3"
   },
   "icons": {
     "ColorPalette": {
       "Checkbox.Background.Default.Dark": "gray3",
       "Checkbox.Border.Default.Dark": "gray3",
-      "Checkbox.Foreground.Selected.Dark": "white",
       "Checkbox.Focus.Wide.Dark": "primary",
       "Checkbox.Focus.Thin.Default.Dark": "primary",
       "Checkbox.Focus.Thin.Selected.Dark": "white",
       "Checkbox.Background.Disabled.Dark": "gray3",
       "Checkbox.Border.Disabled.Dark": "gray3",
-      "Checkbox.Foreground.Disabled.Dark": "#a56a01"
+      "Checkbox.Foreground.Disabled.Dark": "gray5",
+      "Checkbox.Foreground.Selected.Dark": "white"
     }
   }
 }
