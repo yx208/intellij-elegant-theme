@@ -13,6 +13,7 @@
     "gray3": "#383e47",
     "gray4": "#464f61",
     "gray5": "#5B697C",
+    "menuTextDisabled": "#656b70",
 
     "primary": "#085dc2",
     "primarySecond": "#2077f1",
@@ -47,6 +48,9 @@
       "selectionBackground": "gray",
       "selectionInactiveBackground": "gray",
       "selectionBackgroundInactive": "gray"
+    },
+    "MenuItem": {
+      "disabledForeground": "menuTextDisabled"
     },
     "MainToolbar": {
       "Dropdown": {

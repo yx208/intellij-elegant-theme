@@ -28,7 +28,7 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        This update introduces a 'Colorful Theme,' designed to add some color to the more simplistic scenarios based on the basic theme; therefore, this theme will feature richer colors.
+        The color of the text when a menu item is disabled.
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
