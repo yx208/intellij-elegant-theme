@@ -91,7 +91,7 @@
       "selectionBackground": "primary",
       "selectionForeground": "white",
       "selectionInactiveForeground": "primary",
-      "rowHeight": 24
+      "rowHeight": 26
     },
     "RunWidget": {
       "foreground": "white",
@@ -125,8 +125,10 @@
       "selectionInactiveBackground": "gray",
       "selectionForeground": "pureWhite",
       "rowHeight": 26,
-      "hash": "gray3"
+      "hash": "gray3",
+      "Selection.arc": 12
     },
+    "SettingsTree.rowHeight": 30,
     "EditorPane.inactiveBackground": "dark",
     "CompletionPopup": {
       "foreground": "white2",
@@ -202,7 +204,7 @@
     "Menu": {
       "selectionBackground": "primary",
       "Selection": {
-        "arc": 10
+        "arc": 12
       }
     },
     "NotificationsToolwindow": {
@@ -232,7 +234,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "gray3",
+      "Checkbox.ackground.Default.Dark": "gray3",
       "Checkbox.Border.Default.Dark": "gray3",
       "Checkbox.Focus.Wide.Dark": "primary",
       "Checkbox.Focus.Thin.Default.Dark": "primary",
