@@ -91,7 +91,7 @@
       "selectionBackground": "primary",
       "selectionForeground": "white",
       "selectionInactiveForeground": "primary",
-      "rowHeight": 24
+      "rowHeight": 27
     },
     "RunWidget": {
       "foreground": "white",
@@ -121,11 +121,12 @@
     },
     "Tree": {
       "foreground": "treeText",
-      "selectionBackground": "primary",
+      "selectionBackground": "blueDeep",
       "selectionInactiveBackground": "gray",
-      "selectionForeground": "pureWhite",
-      "rowHeight": 26,
-      "hash": "gray3"
+      "selectionForeground": "white",
+      "rowHeight": 27,
+      "hash": "gray3",
+      "Selection.arc": 12
     },
     "EditorPane.inactiveBackground": "dark",
     "CompletionPopup": {
@@ -140,6 +141,7 @@
       "underlineHeight": 2,
       "underlinedTabBackground": "gray"
     },
+    "EditorTabs.fontSizeOffset": 0,
     "ToolWindow": {
       "Header": {
         "background": "dark",
