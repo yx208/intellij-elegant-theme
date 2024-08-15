@@ -137,10 +137,14 @@
       "selectionInactiveBackground": "gray2"
     },
     "EditorTabs": {
+      "background": "codeDark",
       "underlineColor": "primarySecond",
-      "inactiveUnderlineColor": "gray5",
+      "inactiveUnderlineColor": "primarySecond",
       "underlineHeight": 2,
-      "underlinedTabBackground": "gray"
+      "underlinedTabBackground": "dark",
+      "hoverInactiveBackground": "dark",
+      "hoverBackground": "gray",
+      "hoverSelectedInactiveBackground": "dark"
     },
     "EditorTabs.fontSizeOffset": 0,
     "ToolWindow": {

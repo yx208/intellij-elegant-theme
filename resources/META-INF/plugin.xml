@@ -29,6 +29,7 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
         - List highlight
+        - tabs in the editor
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
