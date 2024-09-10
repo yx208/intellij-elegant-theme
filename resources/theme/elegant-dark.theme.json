@@ -128,6 +128,7 @@
       "hash": "gray3",
       "Selection.arc": 12
     },
+    "SettingsTree.rowHeight": 30,
     "EditorPane.inactiveBackground": "dark",
     "CompletionPopup": {
       "foreground": "white2",
@@ -136,10 +137,14 @@
       "selectionInactiveBackground": "gray2"
     },
     "EditorTabs": {
+      "background": "codeDark",
       "underlineColor": "primarySecond",
-      "inactiveUnderlineColor": "gray5",
+      "inactiveUnderlineColor": "primarySecond",
       "underlineHeight": 2,
-      "underlinedTabBackground": "gray"
+      "underlinedTabBackground": "dark",
+      "hoverInactiveBackground": "dark",
+      "hoverBackground": "gray",
+      "hoverSelectedInactiveBackground": "dark"
     },
     "EditorTabs.fontSizeOffset": 0,
     "ToolWindow": {
@@ -204,7 +209,7 @@
     "Menu": {
       "selectionBackground": "blueDeep",
       "Selection": {
-        "arc": 10
+        "arc": 12
       }
     },
     "NotificationsToolwindow": {

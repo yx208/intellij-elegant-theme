@@ -239,7 +239,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.ackground.Default.Dark": "gray3",
+      "Checkbox.Background.Default.Dark": "gray3",
       "Checkbox.Border.Default.Dark": "gray3",
       "Checkbox.Focus.Wide.Dark": "primary",
       "Checkbox.Focus.Thin.Default.Dark": "primary",
