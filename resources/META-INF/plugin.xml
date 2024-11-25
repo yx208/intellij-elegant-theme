@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>elegant-theme</id>
-    <version>1.2.19</version>
+    <version>1.2.20</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -28,9 +28,9 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        <p>Colorful-Dark update</p>
         <ul>
-            <li>Rust default variable highlight</li>
+            <li>Change editor background-color</li>
+            <li>Adjust Color Relationships</li>
         </ul>
     ]]></change-notes>
 

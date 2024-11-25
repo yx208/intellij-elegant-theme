@@ -4,8 +4,8 @@
   "author": "yx208",
   "editorScheme": "/theme/ElegantColorful.dark.theme.xml",
   "colors": {
-    "dark": "#222429",
-    "codeDark": "#1e1f22",
+    "dark": "#1C1C1C",
+    "codeDark": "#1C1C1C",
     "blueDeep": "#0c346e",
 
     "gray": "#30353d",
@@ -144,9 +144,9 @@
       "underlinedTabBackground": "dark",
       "hoverInactiveBackground": "dark",
       "hoverBackground": "gray",
-      "hoverSelectedInactiveBackground": "dark"
+      "hoverSelectedInactiveBackground": "dark",
+      "fontSizeOffset": 0
     },
-    "EditorTabs.fontSizeOffset": 0,
     "ToolWindow": {
       "Header": {
         "background": "dark",
@@ -162,7 +162,8 @@
     "TabbedPane": {
       "underlineColor": "primarySecond",
       "focusColor": "gray",
-      "hoverColor": "gray"
+      "hoverColor": "gray",
+      "tabSelectionHeight": 2
     },
     "Link.activeForeground": "primarySecond",
     "Table": {
