@@ -31,6 +31,7 @@
         <ul>
             <li>Change editor background-color</li>
             <li>Adjust Color Relationships</li>
+            <li>Colorful formally replaces the current default theme</li>
         </ul>
     ]]></change-notes>
 
@@ -42,8 +43,5 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="elegant-theme-dark" path="/theme/elegant-dark.theme.json"/>
         <colorScheme id="ElegantThemeDark" path="/theme/elegant-dark.theme.xml" dark="true" />
-
-        <themeProvider id="elegant-colorful-dark" path="/theme/ElegantColorful.dark.theme.json"/>
-        <colorScheme id="ElegantColorfulDark" path="/theme/ElegantColorful.dark.theme.xml" dark="true" />
     </extensions>
 </idea-plugin>

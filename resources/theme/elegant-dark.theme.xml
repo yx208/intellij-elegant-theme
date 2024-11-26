@@ -1,26 +1,26 @@
 <scheme name="Elegant Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-12-02T09:02:13</property>
+    <property name="created">2024-06-11T09:00:00</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2024.2</property>
+    <property name="ideVersion">2024.3.0.0</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="2075eb" />
     <option name="CARET_ROW_COLOR" value="2b2f36" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1e1f22" />
-    <option name="DOCUMENTATION_COLOR" value="1e1f22" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1d1d1d" />
+    <option name="DOCUMENTATION_COLOR" value="1d1d1d" />
     <option name="DOC_COMMENT_GUIDE" value="8053" />
     <option name="DOC_COMMENT_LINK" value="4997fa" />
-    <option name="GUTTER_BACKGROUND" value="1e1f22" />
+    <option name="GUTTER_BACKGROUND" value="1d1d1d" />
     <option name="HINT_BORDER" value="373b42" />
     <option name="INDENT_GUIDE" value="373b42" />
-    <option name="INFORMATION_HINT" value="1e1f22" />
-    <option name="LINE_NUMBERS_COLOR" value="434952" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="A7B4C2" />
-    <option name="LOOKUP_COLOR" value="1e1f22" />
+    <option name="INFORMATION_HINT" value="1d1d1d" />
+    <option name="LINE_NUMBERS_COLOR" value="41484D" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a7b4c2" />
+    <option name="LOOKUP_COLOR" value="1d1d1d" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="2075eb" />
-    <option name="PREVIEW_BACKGROUND" value="1e1f22" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="1e1f22" />
+    <option name="PREVIEW_BACKGROUND" value="1d1d1d" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="1d1d1d" />
     <option name="RIGHT_MARGIN_COLOR" value="373b42" />
     <option name="SELECTED_INDENT_GUIDE" value="373b42" />
     <option name="SELECTED_TEARLINE_COLOR" value="2075eb" />
@@ -37,13 +37,13 @@
   <attributes>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
-        <option name="BACKGROUND" value="434952" />
+        <option name="FOREGROUND" value="a7b4c2" />
+        <option name="BACKGROUND" value="41484D" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
@@ -54,7 +54,7 @@
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -77,24 +77,25 @@
       <value>
         <option name="FOREGROUND" value="4997fa" />
         <option name="EFFECT_COLOR" value="4997fa" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DART_ENUM">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DART_IMPORT_PREFIX">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DART_PARAMETER_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
       </value>
     </option>
     <option name="DART_SYMBOL_LITERAL">
@@ -116,7 +117,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -126,7 +127,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -156,7 +157,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -184,7 +185,7 @@
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -203,6 +204,12 @@
       <value>
         <option name="FOREGROUND" value="5b697c" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9581D6" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -241,6 +248,12 @@
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="4997fa" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="41484d" />
+        <option name="ERROR_STRIPE_COLOR" value="5b697c" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -347,13 +360,13 @@
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
       </value>
     </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="KOTLIN_ABSTRACT_CLASS">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -371,7 +384,7 @@
     </option>
     <option name="KOTLIN_ENUM_ENTRY">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -386,13 +399,13 @@
     </option>
     <option name="KOTLIN_TRAIT">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
@@ -435,7 +448,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffef28" />
-        <option name="BACKGROUND" value="434952" />
+        <option name="BACKGROUND" value="41484D" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -457,27 +470,27 @@
     </option>
     <option name="OC.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
       </value>
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
       </value>
     </option>
     <option name="OC.STRUCT_FIELD">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
       </value>
     </option>
     <option name="OC.STRUCT_LIKE">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
       </value>
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME">
@@ -520,7 +533,7 @@
     </option>
     <option name="SASS_PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
@@ -537,8 +550,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
-        <option name="BACKGROUND" value="1e1f22" />
+        <option name="FOREGROUND" value="a7b4c2" />
+        <option name="BACKGROUND" value="1d1d1d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -552,24 +565,24 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="4997fa" />
       </value>
     </option>
     <option name="TS.ENUM_MEMBER">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="TS.TYPE_PARAMETER">
+    <option name="TS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="E0992D" />
+        <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
-    <option name="TS.MODULE_NAME">
+    <option name="TS.TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="e0992d" />
       </value>
@@ -601,6 +614,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="a7b4c2" />
+      </value>
+    </option>
     <option name="XML_CUSTOM_TAG_NAME" baseAttributes="XML_TAG_NAME" />
     <option name="XML_PROLOGUE">
       <value>
@@ -628,7 +646,7 @@
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
@@ -645,7 +663,7 @@
     </option>
     <option name="YAML_SIGN">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
       </value>
     </option>
     <option name="YAML_TEXT">
@@ -674,13 +692,13 @@
     </option>
     <option name="org.rust.ENUM_VARIANT">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="org.rust.FORMAT_SPECIFIER">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -699,13 +717,13 @@
     <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.MODULE">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
       </value>
     </option>
     <option name="org.rust.MUT_BINDING">
       <value>
-        <option name="FOREGROUND" value="A7B4C2" />
-        <option name="EFFECT_COLOR" value="A7B4C2" />
+        <option name="FOREGROUND" value="a7b4c2" />
+        <option name="EFFECT_COLOR" value="a7b4c2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -718,7 +736,7 @@
     </option>
     <option name="org.rust.TRAIT">
       <value>
-        <option name="FOREGROUND" value="B899" />
+        <option name="FOREGROUND" value="b899" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -729,5 +747,11 @@
       </value>
     </option>
     <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="org.rust.VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9581d6" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
   </attributes>
 </scheme>

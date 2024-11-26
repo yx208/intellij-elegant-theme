@@ -2,3 +2,9 @@
 
 * Change editor background-color
 * Adjust color relationships
+* Colorful formally replaces the current default theme
+
+### Color change
+
+* #222429 / #1E1F22 -> #1E1E1E
+* #434952 -> #41484D
