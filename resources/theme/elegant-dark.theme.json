@@ -5,7 +5,6 @@
   "editorScheme": "/theme/elegant-dark.theme.xml",
   "colors": {
     "dark": "#1d1f21",
-    "blueDeep": "#0c346e",
 
     "gray": "#30353d",
     "gray2": "#2d3138",
@@ -14,7 +13,8 @@
     "gray5": "#5B697C",
 
     "primary": "#085dc2",
-    "primarySecond": "#2077f1",
+    "primarySecondary": "#2077f1",
+    "primaryTertiary": "#0c346e",
 
     "pureWhite": "#ffffff",
     "white": "#d0d1da",
@@ -87,7 +87,7 @@
       "ContrastBorderColor": "gray3"
     },
     "List": {
-      "selectionBackground": "blueDeep",
+      "selectionBackground": "primaryTertiary",
       "selectionForeground": "white",
       "selectionInactiveForeground": "primary",
       "rowHeight": 27
@@ -120,7 +120,7 @@
     },
     "Tree": {
       "foreground": "treeText",
-      "selectionBackground": "blueDeep",
+      "selectionBackground": "primaryTertiary",
       "selectionInactiveBackground": "gray",
       "selectionForeground": "white",
       "rowHeight": 27,
@@ -131,14 +131,14 @@
     "EditorPane.inactiveBackground": "dark",
     "CompletionPopup": {
       "foreground": "white2",
-      "matchForeground": "primarySecond",
+      "matchForeground": "primarySecondary",
       "selectionBackground": "gray2",
       "selectionInactiveBackground": "gray2"
     },
     "EditorTabs": {
       "background": "dark",
-      "underlineColor": "primarySecond",
-      "inactiveUnderlineColor": "primarySecond",
+      "underlineColor": "primarySecondary",
+      "inactiveUnderlineColor": "primarySecondary",
       "underlineHeight": 2,
       "underlinedTabBackground": "dark",
       "hoverInactiveBackground": "dark",
@@ -155,16 +155,16 @@
     "WelcomeScreen.separatorColor": "gray",
     "DefaultTabs": {
       "hoverBackground": "gray",
-      "underlineColor": "primarySecond",
+      "underlineColor": "primarySecondary",
       "underlineHeight": 2
     },
     "TabbedPane": {
-      "underlineColor": "primarySecond",
+      "underlineColor": "primarySecondary",
       "focusColor": "gray",
       "hoverColor": "gray",
       "tabSelectionHeight": 2
     },
-    "Link.activeForeground": "primarySecond",
+    "Link.activeForeground": "primarySecondary",
     "Table": {
       "stripeColor": "gray",
       "lightSelectionForeground": "white",
@@ -174,16 +174,16 @@
     },
     "Plugins": {
       "SectionHeader.background": "gray",
-      "tagBackground": "primarySecond",
+      "tagBackground": "primarySecondary",
       "tagForeground": "white",
 
       "Button": {
         "installForeground": "white2",
         "installBorderColor": "white2",
         "installFillForeground": "white",
-        "installFillBackground": "primarySecond",
+        "installFillBackground": "primarySecondary",
         "updateForeground": "white",
-        "updateBackground": "primarySecond"
+        "updateBackground": "primarySecondary"
       },
 
       "lightSelectionBackground": "gray",
@@ -191,8 +191,8 @@
     },
     "ProgressBar": {
       "trackColor": "white",
-      "progressColor": "primarySecond",
-      "indeterminateStartColor": "primarySecond",
+      "progressColor": "primarySecondary",
+      "indeterminateStartColor": "primarySecondary",
       "indeterminateEndColor": "primary",
 
       "failedColor": "red",
@@ -207,7 +207,7 @@
       "hoverBorderColor": "gray3"
     },
     "Menu": {
-      "selectionBackground": "blueDeep",
+      "selectionBackground": "primaryTertiary",
       "Selection": {
         "arc": 12
       }
