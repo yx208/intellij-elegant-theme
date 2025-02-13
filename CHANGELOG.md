@@ -2,9 +2,7 @@
 
 Change text editor background-color.
 
-### Color change
-
-* #1d1f21 -> #202224
+Text editor: #1d1f21 -> #202224 -> #1A1C1F
 
 ## 1.2.20
 
