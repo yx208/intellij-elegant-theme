@@ -2,7 +2,8 @@
 
 Change text editor background-color.
 
-Text editor: #1d1f21 -> #202224 -> #1A1C1F
+* Background: #1d1f21 -> #1A1C1F
+* CARET_ROW_COLOR: #2B2F36 -> #24272B
 
 ## 1.2.20
 
