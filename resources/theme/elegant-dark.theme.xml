@@ -15,7 +15,7 @@
     <option name="HINT_BORDER" value="373b42" />
     <option name="INDENT_GUIDE" value="373b42" />
     <option name="INFORMATION_HINT" value="1a1c1f" />
-    <option name="LINE_NUMBERS_COLOR" value="41484D" />
+    <option name="LINE_NUMBERS_COLOR" value="41484d" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a7b4c2" />
     <option name="LOOKUP_COLOR" value="1a1c1f" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="2075eb" />
@@ -38,7 +38,7 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="a7b4c2" />
-        <option name="BACKGROUND" value="41484D" />
+        <option name="BACKGROUND" value="41484d" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
@@ -208,7 +208,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="9581D6" />
+        <option name="FOREGROUND" value="9581d6" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -355,7 +355,12 @@
         <option name="FOREGROUND" value="e66060" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e66060" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
@@ -448,7 +453,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffef28" />
-        <option name="BACKGROUND" value="41484D" />
+        <option name="BACKGROUND" value="41484d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -551,7 +556,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a7b4c2" />
-        <option name="BACKGROUND" value="1A1C1F" />
+        <option name="BACKGROUND" value="1a1c1f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

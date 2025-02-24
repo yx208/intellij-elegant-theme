@@ -2,8 +2,9 @@
 
 Change text editor background-color.
 
-* Background: #1d1f21 -> #1A1C1F
+* Editor: #1d1f21 -> #1A1C1F
 * CARET_ROW_COLOR: #2B2F36 -> #24272B
+* Add IDE background: #1d2024
 
 ## 1.2.20
 

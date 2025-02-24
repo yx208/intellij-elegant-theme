@@ -4,7 +4,8 @@
   "author": "yx208",
   "editorScheme": "/theme/elegant-dark.theme.xml",
   "colors": {
-    "dark": "#17181a",
+    "dark": "#1d2024",
+    "editor": "#1a1c1f",
 
     "gray": "#30353d",
     "gray2": "#2d3138",
@@ -136,14 +137,14 @@
       "selectionInactiveBackground": "gray2"
     },
     "EditorTabs": {
-      "background": "dark",
+      "background": "editor",
       "underlineColor": "primarySecondary",
       "inactiveUnderlineColor": "primarySecondary",
       "underlineHeight": 2,
-      "underlinedTabBackground": "dark",
-      "hoverInactiveBackground": "dark",
+      "underlinedTabBackground": "editor",
+      "hoverInactiveBackground": "editor",
       "hoverBackground": "gray",
-      "hoverSelectedInactiveBackground": "dark",
+      "hoverSelectedInactiveBackground": "editor",
       "fontSizeOffset": 0
     },
     "ToolWindow": {
