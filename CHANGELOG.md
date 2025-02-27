@@ -4,7 +4,7 @@ Change text editor background-color.
 
 * Editor: #1d1f21 -> #1A1C1F
 * CARET_ROW_COLOR: #2B2F36 -> #24272B
-* Add IDE background: #1d2024
+* Add IDE background: #1d2024 -> #1f2226
 
 ## 1.2.20
 
