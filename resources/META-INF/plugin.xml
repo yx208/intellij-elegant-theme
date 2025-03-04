@@ -28,11 +28,7 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        <ul>
-            <li>Change editor background-color</li>
-            <li>Adjust Color Relationships</li>
-            <li>Colorful formally replaces the current default theme</li>
-        </ul>
+        <p>See CHANGELOG.md for details</p>
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
