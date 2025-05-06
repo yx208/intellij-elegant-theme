@@ -1,3 +1,7 @@
+## 1.2.22
+
+Keyword style
+
 ## 1.2.21
 
 Change text editor background-color.
