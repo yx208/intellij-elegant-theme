@@ -750,5 +750,10 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="org.toml.KEY">
+      <value>
+        <option name="FOREGROUND" value="e0992d" />
+      </value>
+    </option>
   </attributes>
 </scheme>
