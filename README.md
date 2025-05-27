@@ -26,12 +26,10 @@ If you find that the color of the editor area does not match the theme color (wh
 
 Thanks for liking it! 😉
 
+## Reference
+
+[UI Guideline](https://plugins.jetbrains.com/docs/intellij/ui-guidelines-welcome.html)
+
 ## Feedback
 
 If you have any good idea or find a bug, you can open an issue to tell me!
-
-## Acknowledgements
-
-<a href="https://jb.gg/OpenSourceSupport">
-    <img width="256" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains Logo (Main) logo.">
-</a>
