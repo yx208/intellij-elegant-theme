@@ -124,6 +124,7 @@
       "selectionBackground": "primaryTertiary",
       "selectionInactiveBackground": "gray",
       "selectionForeground": "white",
+      "leftChildIndent": 9,
       "rowHeight": 27,
       "hash": "gray3",
       "Selection.arc": 12
