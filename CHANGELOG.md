@@ -1,6 +1,7 @@
 ## 1.2.22
 
-tree pad
+- Tree pad
+- Selection background
 
 ## 1.2.21
 
