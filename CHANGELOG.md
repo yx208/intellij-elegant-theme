@@ -2,6 +2,7 @@
 
 - Tree pad
 - Selection background
+- Optimize visual effects
 
 ## 1.2.21
 
