@@ -2,37 +2,37 @@
   <metaInfo>
     <property name="created">2024-06-11T09:00:00</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2025.1.0.0</property>
+    <property name="ideVersion">2025.2.0.0</property>
   </metaInfo>
   <colors>
-    <option name="CARET_COLOR" value="2075eb" />
-    <option name="CARET_ROW_COLOR" value="24272b" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1a1c1f" />
-    <option name="DOCUMENTATION_COLOR" value="1a1c1f" />
-    <option name="DOC_COMMENT_GUIDE" value="8053" />
-    <option name="DOC_COMMENT_LINK" value="4997fa" />
-    <option name="GUTTER_BACKGROUND" value="1a1c1f" />
-    <option name="HINT_BORDER" value="373b42" />
-    <option name="INDENT_GUIDE" value="373b42" />
-    <option name="INFORMATION_HINT" value="1a1c1f" />
-    <option name="LINE_NUMBERS_COLOR" value="41484d" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a7b4c2" />
-    <option name="LOOKUP_COLOR" value="1a1c1f" />
-    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="2075eb" />
-    <option name="PREVIEW_BACKGROUND" value="1a1c1f" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="1a1c1f" />
-    <option name="RIGHT_MARGIN_COLOR" value="373b42" />
-    <option name="SELECTED_INDENT_GUIDE" value="373b42" />
-    <option name="SELECTED_TEARLINE_COLOR" value="2075eb" />
-    <option name="SELECTION_BACKGROUND" value="152e4f" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5b697c60" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="5b697c36" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="5b697c60" />
-    <option name="ScrollBar.Transparent.thumbColor" value="5b697c36" />
-    <option name="ScrollBar.hoverThumbColor" value="5b697c60" />
-    <option name="ScrollBar.thumbColor" value="5b697c36" />
-    <option name="TEARLINE_COLOR" value="373b42" />
-    <option name="VISUAL_INDENT_GUIDE" value="373b42" />
+    <option name="CARET_COLOR" value="2075EB" />
+    <option name="CARET_ROW_COLOR" value="24272B" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1A1C1F" />
+    <option name="DOCUMENTATION_COLOR" value="1A1C1F" />
+    <option name="DOC_COMMENT_GUIDE" value="008053" />
+    <option name="DOC_COMMENT_LINK" value="4997FA" />
+    <option name="GUTTER_BACKGROUND" value="1A1C1F" />
+    <option name="HINT_BORDER" value="373B42" />
+    <option name="INDENT_GUIDE" value="373B42" />
+    <option name="INFORMATION_HINT" value="1A1C1F" />
+    <option name="LINE_NUMBERS_COLOR" value="41484D" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="A7B4C2" />
+    <option name="LOOKUP_COLOR" value="1A1C1F" />
+    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="2075EB" />
+    <option name="PREVIEW_BACKGROUND" value="1A1C1F" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="1A1C1F" />
+    <option name="RIGHT_MARGIN_COLOR" value="373B42" />
+    <option name="SELECTED_INDENT_GUIDE" value="373B42" />
+    <option name="SELECTED_TEARLINE_COLOR" value="2075EB" />
+    <option name="SELECTION_BACKGROUND" value="152E4F" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="5B697C60" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="5B697C36" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="5B697C60" />
+    <option name="ScrollBar.Transparent.thumbColor" value="5B697C36" />
+    <option name="ScrollBar.hoverThumbColor" value="5B697C60" />
+    <option name="ScrollBar.thumbColor" value="5B697C36" />
+    <option name="TEARLINE_COLOR" value="373B42" />
+    <option name="VISUAL_INDENT_GUIDE" value="373B42" />
   </colors>
   <attributes>
     <option name="BREADCRUMBS_CURRENT">
@@ -82,7 +82,7 @@
     </option>
     <option name="DART_ENUM">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -117,7 +117,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -157,7 +157,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -185,7 +185,7 @@
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -208,7 +208,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="9581d6" />
+        <option name="FOREGROUND" value="8686d1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -224,7 +224,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="49b3f5" />
+        <option name="FOREGROUND" value="13abc0" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -364,13 +364,13 @@
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
       </value>
     </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="KOTLIN_ABSTRACT_CLASS">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -388,7 +388,7 @@
     </option>
     <option name="KOTLIN_ENUM_ENTRY">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -403,13 +403,13 @@
     </option>
     <option name="KOTLIN_TRAIT">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
@@ -489,12 +489,12 @@
     </option>
     <option name="OC.STRUCT_LIKE">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
       </value>
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME">
@@ -670,9 +670,16 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="org.rust.ASSOC_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="org.rust.CFG_DISABLED_CODE">
       <value>
         <option name="FOREGROUND" value="5b697c" />
+      </value>
+    </option>
+    <option name="org.rust.CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="8686d1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="org.rust.CONST_PARAMETER">
@@ -681,6 +688,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="org.rust.CRATE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.DOC_LINK">
       <value>
         <option name="FOREGROUND" value="4997fa" />
@@ -688,6 +696,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="org.rust.ENUM" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="org.rust.ENUM_VARIANT">
       <value>
         <option name="FOREGROUND" value="a7b4c2" />
@@ -700,6 +709,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="eb8800" />
@@ -712,6 +722,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="org.rust.MODULE">
       <value>
         <option name="FOREGROUND" value="a7b4c2" />
@@ -719,23 +730,57 @@
     </option>
     <option name="org.rust.MUT_BINDING">
       <value>
-        <option name="FOREGROUND" value="a7b4c2" />
-        <option name="EFFECT_COLOR" value="a7b4c2" />
+        <option name="FOREGROUND" value="8686d1" />
+        <option name="EFFECT_COLOR" value="8686d1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="org.rust.MUT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="49b3f5" />
-        <option name="EFFECT_COLOR" value="49b3f5" />
+        <option name="FOREGROUND" value="13abc0" />
+        <option name="EFFECT_COLOR" value="13abc0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="org.rust.MUT_STATIC">
+      <value>
+        <option name="FOREGROUND" value="8686d1" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="8686d1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.STATIC">
+      <value>
+        <option name="FOREGROUND" value="8686d1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="org.rust.STRUCT" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="org.rust.TRAIT">
       <value>
-        <option name="FOREGROUND" value="b899" />
+        <option name="FOREGROUND" value="12b8a2" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.TRAIT_METHOD">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.TRAIT_METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.TYPE_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="12b8a2" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.TYPE_PARAMETER">
@@ -743,9 +788,10 @@
         <option name="FOREGROUND" value="e0992d" />
       </value>
     </option>
+    <option name="org.rust.UNION" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="org.rust.VARIABLE">
       <value>
-        <option name="FOREGROUND" value="9581d6" />
+        <option name="FOREGROUND" value="8686d1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

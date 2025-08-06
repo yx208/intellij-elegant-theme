@@ -1,3 +1,12 @@
+## 1.3.0
+
+- color: #00B899 -> #12B8A2
+- color: #9581D6 -> #8686D1
+- A new color has been introduced, using the official color for the 'self' keyword: #D98EB3
+- Changed the color scheme for 'parameter'
+
+Hope you enjoy this update! 😉
+
 ## 1.2.22
 
 - Tree pad
