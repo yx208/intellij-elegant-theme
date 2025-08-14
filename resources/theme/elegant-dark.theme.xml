@@ -671,6 +671,12 @@
       </value>
     </option>
     <option name="org.rust.ASSOC_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="org.rust.ASSOC_TRAIT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="4997fa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="org.rust.CFG_DISABLED_CODE">
       <value>
         <option name="FOREGROUND" value="5b697c" />

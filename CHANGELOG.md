@@ -1,3 +1,7 @@
+## 1.3.1
+
+- Rust: Associated trait function call
+
 ## 1.3.0
 
 - color: #00B899 -> #12B8A2
