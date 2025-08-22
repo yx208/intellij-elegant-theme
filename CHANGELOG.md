@@ -2,7 +2,6 @@
 
 - Rust: Associated trait function call
 - Color: #E66060 -> #DB6969
-- Color: #13ABC0 -> #33A8B8
 
 ## 1.3.0
 
