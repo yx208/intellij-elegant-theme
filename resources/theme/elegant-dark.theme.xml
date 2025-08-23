@@ -302,6 +302,47 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="IGNORE.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5b697c" />
+      </value>
+    </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="a7b4c2" />
+        <option name="BACKGROUND" value="373b42" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="a7b4c2" />
+        <option name="BACKGROUND" value="373b42" />
+      </value>
+    </option>
+    <option name="IGNORE.SLASH">
+      <value>
+        <option name="FOREGROUND" value="9581d6" />
+      </value>
+    </option>
+    <option name="IGNORE.SYNTAX">
+      <value>
+        <option name="FOREGROUND" value="eb8800" />
+        <option name="BACKGROUND" value="373b42" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.UNUSED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="5b697c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="IGNORE.VALUE">
+      <value>
+        <option name="FOREGROUND" value="9963" />
+      </value>
+    </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="a7b4c2" />
@@ -584,6 +625,12 @@
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="e0992d" />
+      </value>
+    </option>
+    <option name="TS.TYPE.ALIAS">
+      <value>
+        <option name="FOREGROUND" value="12b8a2" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
