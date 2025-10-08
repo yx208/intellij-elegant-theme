@@ -172,7 +172,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="db6969" />
+        <option name="FOREGROUND" value="db7672" />
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
@@ -393,12 +393,12 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="db6969" />
+        <option name="FOREGROUND" value="db7672" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="db6969" />
+        <option name="FOREGROUND" value="db7672" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
@@ -483,7 +483,7 @@
     </option>
     <option name="MARKDOWN_LINK_TEXT">
       <value>
-        <option name="FOREGROUND" value="db6969" />
+        <option name="FOREGROUND" value="db7672" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -583,7 +583,7 @@
     </option>
     <option name="SASS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="db6969" />
+        <option name="FOREGROUND" value="db7672" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">

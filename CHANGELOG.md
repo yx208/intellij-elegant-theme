@@ -1,7 +1,7 @@
 ## 1.3.1
 
 - Rust: Associated trait function call
-- Color: #E66060 -> #DB6969
+- Color: #E66060 -> #DB7672
 
 ## 1.3.0
 
