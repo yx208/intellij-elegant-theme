@@ -360,6 +360,18 @@
         <option name="FOREGROUND" value="3b3a36" />
       </value>
     </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_COLOR" value="6b675e" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER">
+      <value>
+        <option name="EFFECT_COLOR" value="6b675e" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="3b3a36" />
@@ -539,6 +551,22 @@
         <option name="FOREGROUND" value="77882e" />
       </value>
     </option>
+    <option name="GO_STRUCT_EXPORTED_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="8e4d82" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_LOCAL_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="8e4d82" />
+      </value>
+    </option>
+    <option name="GO_SYNTAX_UPDATE">
+      <value>
+        <option name="EFFECT_COLOR" value="2e7093" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="GO_TYPE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="2e7d6e" />
@@ -663,6 +691,52 @@
         <option name="FOREGROUND" value="33568c" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="PY.FSTRING_FORMAT_SPEC_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="PY.FSTRING_FORMAT_SPEC_SPECIAL_CHAR">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="PY.FSTRING_FRAGMENT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="PY.FSTRING_FRAGMENT_COLON">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="PY.FSTRING_FRAGMENT_TYPE_CONVERSION">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="6b675e" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="33568c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="2e7d6e" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="2e7d6e" />
@@ -752,6 +826,230 @@
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="8e4d82" />
+      </value>
+    </option>
+    <option name="org.rust.ASSOC_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.ASSOC_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.ASSOC_TRAIT_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.ASSOC_TRAIT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.CFG_DISABLED_CODE">
+      <value>
+        <option name="FOREGROUND" value="a79f89" />
+      </value>
+    </option>
+    <option name="org.rust.CRATE">
+      <value>
+        <option name="FOREGROUND" value="96781c" />
+      </value>
+    </option>
+    <option name="org.rust.DIMMED_TEXT">
+      <value>
+        <option name="FOREGROUND" value="a79f89" />
+      </value>
+    </option>
+    <option name="org.rust.DOC_CODE">
+      <value>
+        <option name="FOREGROUND" value="6b675e" />
+      </value>
+    </option>
+    <option name="org.rust.DOC_EMPHASIS">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="org.rust.DOC_STRONG">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.ENUM">
+      <value>
+        <option name="FOREGROUND" value="2e7d6e" />
+      </value>
+    </option>
+    <option name="org.rust.ENUM_VARIANT">
+      <value>
+        <option name="FOREGROUND" value="8e4d82" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.FORMAT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="org.rust.FORMAT_SPECIFIER">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="org.rust.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="org.rust.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="org.rust.GENERATED_ITEM">
+      <value>
+        <option name="FOREGROUND" value="77882e" />
+      </value>
+    </option>
+    <option name="org.rust.INLINE_ERROR_DESCRIPTION">
+      <value>
+        <option name="FOREGROUND" value="b3554a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.INLINE_EXPLANATION">
+      <value>
+        <option name="FOREGROUND" value="3d6a78" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.INLINE_WARNING_DESCRIPTION">
+      <value>
+        <option name="FOREGROUND" value="886715" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.KEYWORD_UNSAFE">
+      <value>
+        <option name="FOREGROUND" value="c13e2f" />
+      </value>
+    </option>
+    <option name="org.rust.LIFETIME">
+      <value>
+        <option name="FOREGROUND" value="a85f2e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.MACRO">
+      <value>
+        <option name="FOREGROUND" value="96781c" />
+      </value>
+    </option>
+    <option name="org.rust.METHOD">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="org.rust.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_BINDING">
+      <value>
+        <option name="EFFECT_COLOR" value="6b675e" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="33568c" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="6b675e" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.PARAMETER">
+      <value />
+    </option>
+    <option name="org.rust.Q_OPERATOR">
+      <value>
+        <option name="FOREGROUND" value="33568c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.SECONDARY_SPOT">
+      <value>
+        <option name="EFFECT_COLOR" value="2e7093" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.SELF_EXPRESSION">
+      <value>
+        <option name="FOREGROUND" value="33568c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="33568c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.STATIC">
+      <value>
+        <option name="FOREGROUND" value="8e4d82" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.STRUCT">
+      <value>
+        <option name="FOREGROUND" value="2e7d6e" />
+      </value>
+    </option>
+    <option name="org.rust.TRAIT">
+      <value>
+        <option name="FOREGROUND" value="2e7d6e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.TRAIT_METHOD">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.TRAIT_METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="2e7093" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.TYPE_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="2e7d6e" />
+      </value>
+    </option>
+    <option name="org.rust.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="2e7d6e" />
+      </value>
+    </option>
+    <option name="org.rust.UNION">
+      <value>
+        <option name="FOREGROUND" value="2e7d6e" />
+      </value>
+    </option>
+    <option name="org.rust.UNSAFE_CODE">
+      <value>
+        <option name="BACKGROUND" value="f2dcd3" />
       </value>
     </option>
   </attributes>

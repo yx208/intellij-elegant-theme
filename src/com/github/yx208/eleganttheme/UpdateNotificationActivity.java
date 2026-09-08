@@ -26,13 +26,13 @@ import java.util.regex.Pattern;
  * The notification body is the first &lt;p&gt; of the change-notes in plugin.xml — put the
  * release headline there and keep it free of &lt;a&gt; links (they are not clickable here).
  * The "Full release notes" action derives its URL from the plugin version, so
- * _docs/design-&lt;version&gt;.en.md must exist on main when a version ships.
+ * _docs/release-&lt;version&gt;.en.md must exist on main when a version ships.
  */
 public final class UpdateNotificationActivity implements StartupActivity.DumbAware {
 
     private static final String LAST_NOTIFIED_VERSION_KEY = "elegant.theme.last.notified.version";
     private static final String RELEASE_NOTES_URL_TEMPLATE =
-            "https://github.com/yx208/elegant-theme/blob/main/_docs/design-%s.en.md";
+            "https://github.com/yx208/elegant-theme/blob/main/_docs/release-%s.en.md";
     private static final Pattern FIRST_PARAGRAPH =
             Pattern.compile("<p>(.*?)</p>", Pattern.DOTALL | Pattern.CASE_INSENSITIVE);
 

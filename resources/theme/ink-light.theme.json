@@ -73,9 +73,9 @@
     "selection-bg-active-muted": "#D9E2EB",
     "selection-bg-inactive": "#EAE4D2",
     "tab-selected-bg-active": "#E2E7ED",
-    "tab-selected-bg-inactive": "#F1EAD6",
-    "tab-selected-border-active": "#9FB3CC",
-    "tab-selected-border-inactive": "#CFC6AC",
+    "tab-selected-bg-inactive": "#EAE2CC",
+    "tab-selected-border-active": "#4F74A8",
+    "tab-selected-border-inactive": "#B1A88F",
     "tab-file-color-mask-bg": "#F6F0DF80",
 
     "search-match-bg": "#F0DFA6",
@@ -104,13 +104,13 @@
       "arc.compact": 20
     },
     "EditorTabs": {
-      "underlinedTabBackground": "layer-0-bg",
+      "underlinedTabBackground": "selection-bg-active-muted",
       "borderColor": "layer-2-border"
     },
     "DefaultTabs.borderColor": "layer-2-border",
     "ActionButton": {
-      "pressedBackground": "toolbar-selected-bg",
-      "pressedBorderColor": "accent-brand-border-secondary"
+      "pressedBackground": "selection-bg-active",
+      "pressedBorderColor": "#9FB3CC"
     },
     "Button": {
       "startBackground": "layer-1-bg-inline",

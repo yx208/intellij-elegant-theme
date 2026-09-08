@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>elegant-theme</id>
-    <version>2.1.0</version>
+    <version>2.1.1</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -24,9 +24,9 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        <p>Add new theme: <b>Elegant Ink Light (Beta)</b> — an eye-friendly ink-wash style light theme based on Islands Light: ink-tone text and low-saturation traditional Chinese colors on warm rice-paper backgrounds.</p>
-        <p>New: after installing or updating the plugin, a one-time notification now shows the release highlights. The minimum supported IDE version is now 2022.3.</p>
-        <p>Full release notes: <a href="https://github.com/yx208/elegant-theme/blob/main/_docs/design-2.1.0.en.md">_docs/design-2.1.0.en.md</a></p>
+        <p>Elegant Ink Light now covers Rust, Python and Go syntax: 55 editor keys were missing and fell back to the platform default colors, which broke the ink-on-paper look. Three UI touches as well: the active editor tab becomes a pale blue chip with a clear blue outline, and turns sand with a light gray outline when the editor loses focus instead of fading out, and the side-bar button of an open tool window uses the theme's selection blue instead of a washed-out gray-blue.</p>
+        <p>Colors only &mdash; every new editor key reuses a hue already in the scheme, and the UI touches add a single new blue and otherwise reuse existing tones. No other theme is affected.</p>
+        <p>Full release notes: <a href="https://github.com/yx208/elegant-theme/blob/main/_docs/release-2.1.1.en.md">_docs/release-2.1.1.en.md</a></p>
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
